@@ -1,0 +1,523 @@
+{"id": "0", "sentence": "这些结果表明@GENE$ 中的 C1772T 多态性不参与@DISEASE$ 的进展或转移。", "label": "1"}
+{"id": "1", "sentence": "在我们的设置中，酗酒者中的@DISEASE$ 似乎与@GENE$ 基因中是否存在突变 C282Y、H63D 和 S65C 无关。", "label": "1"}
+{"id": "2", "sentence": "MPO 基因型 GG 与遗传性@GENE$ 患者的@DISEASE$ 相关。", "label": "1"}
+{"id": "3", "sentence": "这三项研究并未提供一致的证据来支持@GENE$ 突变与@DISEASE$ 风险增加和动脉硬化发展相关的假设。", "label": "1"}
+{"id": "4", "sentence": "我们的前瞻性研究结果表明，携带@GENE$ C282Y 突变的个体患@DISEASE$ 的风险可能增加。", "label": "1"}
+{"id": "5", "sentence": "我们得出结论，G1514-->A 突变的纯合性是该家族中@DISEASE$ 成人形式的唯一原因，而 A619-->G 替换不是有害突变，而是常见的@GENE$ 多态性。", "label": "1"}
+{"id": "6", "sentence": "数据表明@GENE$ 基因或连锁基因座显着调节@DISEASE$ 的风险。", "label": "1"}
+{"id": "7", "sentence": "新基因@GENE$可能与@DISEASE$的浸润增殖有关。", "label": "1"}
+{"id": "8", "sentence": "我们的研究结果表明，@GENE$ 的遗传变异而非 TIM-3 基因导致了这个非裔美国人人群中的@DISEASE$ 易感性。", "label": "1"}
+{"id": "9", "sentence": "总之，@GENE$基因的M416V多态性与@DISEASE$的胰岛素抵抗无关。", "label": "1"}
+{"id": "10", "sentence": "我们没有发现任何证据表明@GENE$、GNGT1 或 RGS9 基因的突变是@DISEASE$ 的原因。", "label": "1"}
+{"id": "11", "sentence": "这些结果表明@GENE$ 无效基因型可能与@DISEASE$ 风险增加有关。", "label": "1"}
+{"id": "12", "sentence": "这些发现表明 GSTA1 和@GENE$ 多态性与@DISEASE$ 易感性相关，尤其是在吸烟者中。", "label": "1"}
+{"id": "13", "sentence": "这些发现表明个体对@DISEASE$ 的易感性可能受 GSTM1、@GENE$ 和 NAT2 多态性的调节。", "label": "1"}
+{"id": "14", "sentence": "这些结果表明，@GENE$ 无效基因型与 @DISEASE$ 风险增加相关，尤其是在年轻人中。", "label": "1"}
+{"id": "15", "sentence": "这些结果支持之前的报告，即 GSTM1 无效基因型与@DISEASE$ 风险的适度增加有关，特别是在重度吸烟者中，这表明 @GENE$ 没有作用，需要进一步研究 GSTP1。", "label": "1"}
+{"id": "16", "sentence": "我们得出结论，@GENE$ null 和 PON1 BB 这两个多态性是常见的遗传特征，它们具有较低的个体风险，但可能是总体人群@DISEASE$ 风险的重要决定因素，尤其是在暴露于 NHL 相关致癌物的人群中。", "label": "1"}
+{"id": "17", "sentence": "我们得出结论，@GENE$ null 和 PON1 BB 这两个多态性是常见的遗传特征，具有较低的个体风险，但可能是总体人群 NHL 风险的重要决定因素，特别是在暴露于@DISEASE$ 相关致癌物的人群中。", "label": "1"}
+{"id": "18", "sentence": "氧化应激相关基因（CYP1A1、GSTM1、@GENE$、MPO、MnSOD）的多态性似乎不是@DISEASE$ 的危险因素。", "label": "1"}
+{"id": "19", "sentence": "@GENE$-null 基因型可能会增加@DISEASE$ 的风险，并与有利的预后因素相关，并且存在至少一个 GST 缺失表明无病生存率有所提高。", "label": "1"}
+{"id": "20", "sentence": "这项研究表明，某些无效 GSTM1 和 @GENE$ 基因型可能与 @DISEASE$ 风险升高相关，这可能会通过两种遗传多态性和吸烟的相互作用而改变。", "label": "1"}
+{"id": "21", "sentence": "携带@GENE$ 0/0 基因型或 GSTT1 0/0-GSTM1 0/0 组合基因型的个体更容易感染@DISEASE$，尤其是男性和年轻携带者。", "label": "1"}
+{"id": "22", "sentence": "携带 GSTT1 0/0 基因型或@GENE$ 0/0-GSTM1 0/0 组合基因型的个体更容易感染@DISEASE$，尤其是男性和年轻携带者。", "label": "1"}
+{"id": "23", "sentence": "@GENE$ 的基因多态性与中国人群对@DISEASE$ 的易感性无关。", "label": "1"}
+{"id": "24", "sentence": "@GENE$基因外显子5的遗传多态性与中国北方汉族人群对@DISEASE$的易感性无关。", "label": "1"}
+{"id": "25", "sentence": "氧化应激相关基因（CYP1A1、@GENE$、GSTT1、MPO、MnSOD）的多态性似乎不是@DISEASE$ 的危险因素。", "label": "1"}
+{"id": "26", "sentence": "易感基因型@GENE$ 0/0 和 CYP1A1 Val/Val 或 CYP1A1 Ile/Val 之间存在协同作用，可增强个体对@DISEASE$ 的易感性。", "label": "1"}
+{"id": "27", "sentence": "这些数据表明 CYP1A1 和@GENE$ 的多态性导致女性患@DISEASE$ 的风险增加。", "label": "1"}
+{"id": "28", "sentence": "@GENE$ 基因型 0/0 和基质金属蛋白酶 9 突变等位基因 (-15621) 的组合是 @DISEASE$ (OR-7.7) 的风险因素。", "label": "1"}
+{"id": "29", "sentence": "这些结果支持之前的报告，即@GENE$ 无效基因型与@DISEASE$ 风险适度增加有关，特别是在重度吸烟者中，表明 GSTT1 没有作用，需要进一步研究 GSTP1。", "label": "1"}
+{"id": "30", "sentence": "本研究表明@GENE$ 多态性可能与@DISEASE$ 的发展风险增加有关。", "label": "1"}
+{"id": "31", "sentence": "结果表明，@GENE$ 无效基因型是印度烟草习惯中@DISEASE$ 发展的风险因素。", "label": "1"}
+{"id": "32", "sentence": "携带 GSTT1 0/0 基因型或 GSTT1 0/0-@GENE$ 0/0 组合基因型的个体更容易感染@DISEASE$，尤其是男性和年轻携带者。", "label": "1"}
+{"id": "33", "sentence": "我们通过 Meta 分析得出的结果不支持@GENE$ 无效基因型和@DISEASE$ 之间的关联，但携带 GSTM1 无效基因型的吸烟者可能与食道癌风险增加有关。", "label": "1"}
+{"id": "35", "sentence": "我们通过 Meta 分析得出的结果不支持 GSTM1 无效基因型与@DISEASE$ 之间的关联，但携带@GENE$ 无效基因型的吸烟者可能与食道癌风险增加有关。", "label": "1"}
+{"id": "36", "sentence": "我们的荟萃分析结果不支持 GSTM1 无效基因型与食管癌之间的关联，但携带@GENE$ 无效基因型的吸烟者可能与@DISEASE$ 风险增加有关。", "label": "1"}
+{"id": "37", "sentence": "在本研究中未检测到@GENE$ 等位基因（包括无效等位基因）与@DISEASE$ 之间的关联。", "label": "1"}
+{"id": "38", "sentence": "这些发现表明@GENE$ 和 GSTT1 多态性与@DISEASE$ 易感性相关，尤其是在吸烟者中。", "label": "1"}
+{"id": "39", "sentence": "因为我们的样本提供了相当高的功效，所以这些结果表明@GENE$ 可能不会在日语@DISEASE$ 中发挥主要作用。", "label": "1"}
+{"id": "40", "sentence": "我们得出结论，@DISEASE$ 的至少一个易感位点位于日语的@GENE$ 区域内。", "label": "1"}
+{"id": "41", "sentence": "我们的结果部分支持之前在其他种族群体中的研究，并表明@GENE$ 基因可能在中国汉族@DISEASE$ 的病因学中发挥重要作用。", "label": "1"}
+{"id": "42", "sentence": "这些数据表明，@GENE$ 基因的多态性可能有助于预测接受奥氮平治疗的@DISEASE$ 患者的阴性症状改善。", "label": "1"}
+{"id": "43", "sentence": "我们的数据表明，@DISEASE$ 的至少一个易感位点位于日本患者的@GENE$ 区域内或非常接近该区域。", "label": "1"}
+{"id": "44", "sentence": "检查我们自己的数据和其他小组的数据后，我们得出结论，目前，@GENE$ 不应被视为存在与@DISEASE$ 关联的重复证据的基因。", "label": "1"}
+{"id": "45", "sentence": "这些发现表明，@DISEASE$ 的病因可能涉及 GRIN1 和@GENE$ 基因多态性的综合影响。", "label": "1"}
+{"id": "46", "sentence": "这些发现表明@GENE$ 和 GRIN2B 基因多态性的综合影响可能与@DISEASE$ 的病因有关。", "label": "1"}
+{"id": "47", "sentence": "本研究报告的关联表明@GENE$ 基因是@DISEASE$ 易感性的良好候选者。", "label": "1"}
+{"id": "48", "sentence": "结果表明，@GENE$ 基因的基因组变异不太可能与@DISEASE$ 的病因学有很大关系。", "label": "1"}
+{"id": "49", "sentence": "显示@DISEASE$ 与@GENE$ 上游区域的 SNP 之间没有显着关联，这些 SNP 显然在日本人群的精神分裂症发病机制中没有发挥关键作用。", "label": "1"}
+{"id": "50", "sentence": "显示精神分裂症与@GENE$ 上游区域的 SNP 之间没有显着关联，这些 SNP 显然在日本人群中@DISEASE$ 的发病机制中没有发挥关键作用。", "label": "1"}
+{"id": "51", "sentence": "本研究报告的关联表明@GENE$ 基因是@DISEASE$ 易感性的良好候选者。", "label": "1"}
+{"id": "52", "sentence": "我们得出结论，@GENE$ 在日本人群中 @DISEASE$ 的发病机制中没有发挥主要作用。", "label": "1"}
+{"id": "53", "sentence": "我们得出结论，@GENE$ 在日本人群中 @DISEASE$ 的发病机制中没有发挥主要作用。", "label": "1"}
+{"id": "54", "sentence": "我们得出结论，@GENE$ 在日本人群的@DISEASE$ 发病机制中没有发挥主要作用。", "label": "1"}
+{"id": "55", "sentence": "我们得出结论，@GENE$ 在日本人群的@DISEASE$ 发病机制中没有发挥主要作用。", "label": "1"}
+{"id": "56", "sentence": "我们的结果表明，@GENE$ 的三个 SNP 不太可能在中国人群对@DISEASE$ 的易感性中发挥重要作用。", "label": "1"}
+{"id": "57", "sentence": "这些结果表明，@DISEASE$ 的至少一个易感位点位于日语的@GENE$ 区域内或非常接近。", "label": "1"}
+{"id": "58", "sentence": "这项研究的结果表明，@GENE$ 基因型不太可能与发生@DISEASE$ 的风险相关。", "label": "1"}
+{"id": "59", "sentence": "这项研究的结果表明，@GENE$ 基因型不太可能与发生@DISEASE$ 的风险相关。", "label": "1"}
+{"id": "60", "sentence": "@GENE$ 基因的 VNTR 测定可能有助于识别 @DISEASE$ 的高风险个体。", "label": "1"}
+{"id": "61", "sentence": "该家族中表现出的分子异常提供了证据，证明@GENE$ 的合成缺陷会改变 GP Ib-IX 复合物的膜表达，并可能导致@DISEASE$。", "label": "1"}
+{"id": "62", "sentence": "我们没有发现 GUCA1B、@GENE$ 或 RGS9 基因突变是@DISEASE$ 的原因的证据。", "label": "1"}
+{"id": "63", "sentence": "我们的研究表明，@GENE$ 功能的丧失导致 X 连锁 @DISEASE$ 的主要发病机制。", "label": "1"}
+{"id": "64", "sentence": "这项研究提供了强有力的证据，将@GENE$ 多态性与增强的心房易损性和增加的@DISEASE$ 风险联系起来。", "label": "1"}
+{"id": "65", "sentence": "人类 T1663A @GENE$ 基因多态性可能导致较低水平的 GH 和 IGF-I，似乎与 @DISEASE$ 风险降低有关。", "label": "1"}
+{"id": "66", "sentence": "人类 T1663A GH1 基因多态性可能会降低@GENE$ 和 IGF-I 的水平，似乎与降低@DISEASE$ 的风险有关。", "label": "1"}
+{"id": "67", "sentence": "目前的研究结果表明，@GENE$ 基因的近端启动子区域和第四个内含子中的遗传多态性与中国女性的@DISEASE$ 风险无关。", "label": "1"}
+{"id": "68", "sentence": "总的来说，我们没有获得关于@GENE$ 基因参与@DISEASE$ 发病机制的确凿证据，尽管需要对更多受试者进行进一步研究以得出三核苷酸重复多态性是否与精神分裂症的发展相关的结论。", "label": "1"}
+{"id": "69", "sentence": "总的来说，我们没有获得关于@GENE$ 基因参与精神分裂症发病机制的确凿证据，尽管需要对更多受试者进行进一步研究以得出三核苷酸重复多态性是否与@DISEASE$ 的发展相关的结论。", "label": "1"}
+{"id": "70", "sentence": "总的来说，我们没有获得关于@GENE$ 基因参与@DISEASE$ 发病机制的确凿证据，尽管需要对更多受试者进行进一步研究以得出三核苷酸重复多态性是否与精神分裂症的发展相关的结论。", "label": "1"}
+{"id": "71", "sentence": "总的来说，我们没有获得关于@GENE$ 基因参与精神分裂症发病机制的确凿证据，尽管需要对更多受试者进行进一步研究以得出三核苷酸重复多态性是否与@DISEASE$ 的发展相关的结论。", "label": "1"}
+{"id": "72", "sentence": "这些发现表明，@GENE$ 基因的 -588T 多态性可能会抑制 GCLM 基因对氧化剂的反应，并且它是@DISEASE$ 的遗传风险因素。", "label": "1"}
+{"id": "73", "sentence": "这些发现表明，GCLM 基因的 -588T 多态性可能会抑制@GENE$ 基因对氧化剂的反应，并且它是@DISEASE$ 的遗传风险因素。", "label": "1"}
+{"id": "74", "sentence": "在法国人群中发现了影响@GENE$ 特性的突变，但它们似乎并未解释 2p23 基因座与@DISEASE$ 的定量标记之间的联系。", "label": "1"}
+{"id": "75", "sentence": "我们的结果表明@GENE$ 基因与中国@DISEASE$ 相关，GCK1/GCK2 B/2 单倍型是GDM 的保护因素。", "label": "1"}
+{"id": "76", "sentence": "我们的结果表明@GENE$ 基因与中国人 GDM 相关，GCK1/GCK2 B/2 单倍型是@DISEASE$ 的保护因素。", "label": "1"}
+{"id": "77", "sentence": "总之，这些结果表明，@GENE$*1F 和 GC*2 等位基因与患@DISEASE$ 风险增加的个体的痰液分泌过多有关。", "label": "1"}
+{"id": "78", "sentence": "我们的结果表明，@GENE$ 突变的杂合性可能使德系犹太人易患@DISEASE$。", "label": "1"}
+{"id": "79", "sentence": "此处报告的实验没有提供支持@GENE$ 基因座参与@DISEASE$ 发展的证据。", "label": "1"}
+{"id": "80", "sentence": "此处报告的实验没有提供支持@GENE$ 基因座参与@DISEASE$ 发展的证据。", "label": "1"}
+{"id": "81", "sentence": "我们的结果表明，在这两个欧洲人群中，@GENE$ 并未在@DISEASE$ 中发挥主要作用。", "label": "1"}
+{"id": "82", "sentence": "尽管我们的结果是否定的，但这是第一项调查@DISEASE$ 中的@GENE$ 基因的研究，对这些基因的进一步研究，尤其是精神分裂症亚型，可能证明是有价值的。", "label": "1"}
+{"id": "83", "sentence": "尽管我们的结果是否定的，但这是第一项研究精神分裂症中@GENE$ 基因的研究，对这些基因的进一步研究，尤其是对@DISEASE$ 亚型的研究，可能证明是有价值的。", "label": "1"}
+{"id": "84", "sentence": "总之，本研究表明，在@DISEASE$ 患者群体中，@GENE$ 主要 (G1) 等位基因的杂合性比纯合性带来更高水平的躯体症状、焦虑/失眠、社交功能障碍和抑郁。", "label": "1"}
+{"id": "85", "sentence": "我们的研究结果表明，@GENE$ 基因也可能参与单极 @DISEASE$ 的遗传病理生理学（至少在女性患者中如此），即使这些发现不支持 GABRA 3 的主导作用。", "label": "1"}
+{"id": "86", "sentence": "我们的研究结果表明，GABRA 3 基因也可能参与单极@DISEASE$（至少在女性患者中）的遗传病理生理学，即使这些发现不支持@GENE$ 的主导作用。", "label": "1"}
+{"id": "87", "sentence": "这些结果表明@GENE$ 基因可能是@DISEASE$ 的危险因素。与 DRD2 基因一样，这种作用可能是通过其对催乳素释放的调节来介导的。", "label": "1"}
+{"id": "88", "sentence": "这些发现重复并扩展了最近报道的发现，它们共同强调了@GENE$ 基因座的多态性变异对@DISEASE$ 风险的潜在贡献。", "label": "1"}
+{"id": "89", "sentence": "@GENE$ 与@DISEASE$ 和脑电图的 β 频率的非常强的关联，结合该基因在两种表型中的作用的生物学证据，表明 GABRA2 可能通过调节神经元水平来影响对酒精依赖的易感性。励磁。", "label": "1"}
+{"id": "90", "sentence": "@GENE$ 与酒精依赖和脑电图 β 频率的非常强的关联，结合该基因在两种表型中的作用的生物学证据，表明 GABRA2 可能通过调节神经元水平来影响对@DISEASE$ 的易感性励磁。", "label": "1"}
+{"id": "91", "sentence": "GABRA2 与@DISEASE$ 和脑电图 β 频率的非常强的关联，结合该基因在两种表型中的作用的生物学证据，表明@GENE$ 可能通过调节神经元水平来影响对酒精依赖的易感性励磁。", "label": "1"}
+{"id": "92", "sentence": "GABRA2 与酒精依赖和脑电图 β 频率的非常强的关联，结合该基因在两种表型中的作用的生物学证据，表明@GENE$ 可能通过调节神经元水平来影响对@DISEASE$ 的易感性。励磁。", "label": "1"}
+{"id": "93", "sentence": "我们在这些 G6PD 缺陷个体的@GENE$ 核心启动子或 5' UTR 中没有发现序列变异，这表明@DISEASE$ 与 G6PD 基因座中的启动子突变无关。", "label": "1"}
+{"id": "94", "sentence": "我们在这些@GENE$ 缺陷个体的 G6PD 核心启动子或 5' UTR 中没有发现序列变异，这表明@DISEASE$ 与 G6PD 基因座中的启动子突变无关。", "label": "1"}
+{"id": "95", "sentence": "我们在 G6PD 核心启动子或这些 G6PD 缺陷个体的 5' UTR 中没有发现序列变异，这表明@DISEASE$ 与@GENE$ 基因座中的启动子突变无关。", "label": "1"}
+{"id": "96", "sentence": "我们得出结论，@GENE$ A- 杂合子女性可免受所有形式的恶性疟原虫疟疾的侵害，并且 TNFalpha(-238A) 等位基因可提供针对临床@DISEASE$ 的保护。", "label": "1"}
+{"id": "97", "sentence": "尽管之前的两项研究报告了在@GENE$ 上使用有限数量的 SNP 的关联，但我们的深入研究未能支持 FZD3 对@DISEASE$ 易感性的任何重大贡献。", "label": "1"}
+{"id": "98", "sentence": "尽管之前的两项研究报告了在 FZD3 上使用有限数量的 SNP 的关联，但我们的深入研究未能支持@GENE$ 对@DISEASE$ 易感性的任何重大贡献。", "label": "1"}
+{"id": "99", "sentence": "这些结果表明@GENE$ 基因可能与@DISEASE$ 的易感性有关。", "label": "1"}
+{"id": "100", "sentence": "我们的数据表明，@GENE$ 基因编码区内或附近的等位基因变异在@DISEASE$ 常见形式的遗传易感性中没有主要作用。", "label": "1"}
+{"id": "101", "sentence": "总之，@GENE$/Scurfin 基因似乎赋予日本人群对@DISEASE$ 的显着易感性。", "label": "1"}
+{"id": "102", "sentence": "总之，FOXP3/@GENE$ 基因似乎赋予日本人群对@DISEASE$ 的显着易感性。", "label": "1"}
+{"id": "103", "sentence": "总之，@GENE$/Scurfin 基因似乎赋予日本人群对@DISEASE$ 的显着易感性。", "label": "1"}
+{"id": "104", "sentence": "总之，FOXP3/@GENE$ 基因似乎赋予日本人群对@DISEASE$ 的显着易感性。", "label": "1"}
+{"id": "105", "sentence": "我们的结果可能表明@DISEASE$ 与@GENE$ 基因或位于附近的基因之间存在关系。", "label": "1"}
+{"id": "106", "sentence": "该分析未显示 240 条分析染色体中的任何突变，表明@GENE$ 编码区的突变很少与非综合征性@DISEASE$ 相关。", "label": "1"}
+{"id": "107", "sentence": "因此，@GENE$ 基因中鉴定的 SNP 不太可能对日本@DISEASE$ 的易感性产生重大影响。", "label": "1"}
+{"id": "108", "sentence": "因此，@GENE$ 基因中鉴定的 SNP 不太可能对日本@DISEASE$ 的易感性产生重大影响。", "label": "1"}
+{"id": "109", "sentence": "这些数据没有提供证据证明@GENE$ 基因对@DISEASE$ 易感性的贡献。", "label": "1"}
+{"id": "110", "sentence": "这些数据没有提供证据证明@GENE$ 基因对@DISEASE$ 易感性的贡献。", "label": "1"}
+{"id": "111", "sentence": "@GENE$ 基因的点突变虽然不常见，但可能是导致日本患者出现@DISEASE$ 和智力低下的原因。", "label": "1"}
+{"id": "112", "sentence": "@GENE$ Arg388 等位基因与@DISEASE$ 的发病率和临床侵袭性增加相关，并导致永生化前列腺上皮细胞的细胞运动和侵袭性发生变化，这与促进转移一致。", "label": "1"}
+{"id": "113", "sentence": "我们得出结论，导致@DISEASE$ 的@GENE$ 突变范围比以前认识到的要广，但 IgIIIa/IIIc 区域代表了真正的突变热点。", "label": "1"}
+{"id": "114", "sentence": "结果表明，@GENE$ 基因与尸检确认的@DISEASE$ 相关。", "label": "1"}
+{"id": "115", "sentence": "我们的数据表明，纤维蛋白原升高的@GENE$ G-455A 基因多态性与@DISEASE$ 风险增加无关。", "label": "1"}
+{"id": "116", "sentence": "@GENE$ 和@DISEASE$ 之间的适度关联表明该基因和 DISC1 介导的分子通路可能在精神分裂症的发展中发挥作用，其中 FEZ1 仅影响一小部分日本精神分裂症患者。", "label": "1"}
+{"id": "117", "sentence": "@GENE$ 与精神分裂症之间的适度关联表明该基因和 DISC1 介导的分子通路可能在@DISEASE$ 的发展中发挥作用，其中 FEZ1 仅影响一小部分日本精神分裂症患者。", "label": "1"}
+{"id": "118", "sentence": "@GENE$ 与精神分裂症之间的适度关联表明该基因和 DISC1 介导的分子通路可能在精神分裂症的发展中发挥作用，FEZ1 仅影响一小部分日本@DISEASE$ 患者。", "label": "1"}
+{"id": "119", "sentence": "FEZ1 和@DISEASE$ 之间的适度关联表明该基因和 DISC1 介导的分子通路可能在精神分裂症的发展中发挥作用，@GENE$ 仅影响一小部分日本精神分裂症患者。", "label": "1"}
+{"id": "120", "sentence": "FEZ1 与精神分裂症之间的适度关联表明该基因和 DISC1 介导的分子通路可能在@DISEASE$ 的发展中发挥作用，@GENE$ 仅影响一小部分日本精神分裂症患者。", "label": "1"}
+{"id": "121", "sentence": "FEZ1 与精神分裂症之间的适度关联表明该基因和 DISC1 介导的分子通路可能在精神分裂症的发展中发挥作用，@GENE$ 仅影响一小部分日本@DISEASE$ 患者。", "label": "1"}
+{"id": "122", "sentence": "这项研究提供了婴儿@GENE$ His/His131 基因型与围产期@DISEASE$-1 传播易感性相关的第一个证据，并进一步表明 Fc gamma RIIa His131 基因对胎儿的影响存在剂量反应关系。传播。", "label": "1"}
+{"id": "123", "sentence": "这项研究提供了婴儿 Fc 伽马 RIIa His/His131 基因型与围产期@DISEASE$-1 传播易感性相关的第一个证据，并进一步表明 @GENE$ His131 基因对胎儿的影响存在剂量反应关系。传播。", "label": "1"}
+{"id": "124", "sentence": "@DISEASE$ 患者具有更高频率的@GENE$ 外显子 15 TT 和外显子 27 GG 基因型，这支持 FBN1 外显子 15 和 27 多态性在确定台湾华人人群 MVP 风险中的作用。", "label": "1"}
+{"id": "125", "sentence": "MVP 患者具有更高频率的@GENE$ 外显子 15 TT 和外显子 27 GG 基因型，这支持 FBN1 外显子 15 和 27 多态性在确定台湾华人人群@DISEASE$ 风险中的作用。", "label": "1"}
+{"id": "126", "sentence": "@DISEASE$ 患者具有更高频率的 FBN1 外显子 15 TT 和外显子 27 GG 基因型，这支持@GENE$ 外显子 15 和 27 多态性在确定台湾华人人群 MVP 风险中的作用。", "label": "1"}
+{"id": "127", "sentence": "MVP 患者具有更高频率的 FBN1 外显子 15 TT 和外显子 27 GG 基因型，这支持@GENE$ 外显子 15 和 27 多态性在确定台湾华人人群中@DISEASE$ 风险中的作用。", "label": "1"}
+{"id": "128", "sentence": "@DISEASE$ 患者具有更高频率的@GENE$ 外显子 15 TT 和外显子 27 GG 基因型，这支持 FBN1 外显子 15 和 27 多态性在确定台湾华人人群 MVP 风险中的作用。", "label": "1"}
+{"id": "129", "sentence": "MVP 患者具有更高频率的@GENE$ 外显子 15 TT 和外显子 27 GG 基因型，这支持 FBN1 外显子 15 和 27 多态性在确定台湾华人人群@DISEASE$ 风险中的作用。", "label": "1"}
+{"id": "130", "sentence": "@DISEASE$ 患者具有更高频率的 FBN1 外显子 15 TT 和外显子 27 GG 基因型，这支持@GENE$ 外显子 15 和 27 多态性在确定台湾华人人群 MVP 风险中的作用。", "label": "1"}
+{"id": "131", "sentence": "MVP 患者具有更高频率的 FBN1 外显子 15 TT 和外显子 27 GG 基因型，这支持@GENE$ 外显子 15 和 27 多态性在确定台湾华人人群中@DISEASE$ 风险中的作用。", "label": "1"}
+{"id": "132", "sentence": "总之，我们的数据并未表明常见的基因@GENE$ 变异对桥本氏甲状腺炎或@DISEASE$ 的发病机制有显着贡献。", "label": "1"}
+{"id": "133", "sentence": "我们得出结论，@GENE$/FASL 启动子单倍型是有功能的，并且 FAS 中的多态性可能有助于 SLE 中的@DISEASE$。", "label": "1"}
+{"id": "134", "sentence": "我们得出结论，FAS/FASL 启动子单倍型是有功能的，@GENE$ 中的多态性可能导致 SLE 中的@DISEASE$。", "label": "1"}
+{"id": "135", "sentence": "我们的结果与之前发表的研究一致，并强调多态性的关联仅限于患有@DISEASE$ 的女性。我们没有发现 CD95L 与 MS 易感性之间的关联，也没有发现@GENE$ 或 CD95L 与发病年龄、病程和疾病严重程度之间的关联。", "label": "1"}
+{"id": "136", "sentence": "我们的结果与之前发表的研究一致，并强调多态性的关联仅限于患有 MS 的女性。我们没有发现 CD95L 与对@DISEASE$ 或@GENE$ 或 CD95L 的易感性与发病年龄、病程和疾病严重程度之间存在关联。", "label": "1"}
+{"id": "137", "sentence": "综合这些数据支持@GENE$ 中的遗传突变可导致@DISEASE$ 的断言。", "label": "1"}
+{"id": "138", "sentence": "得出的结论是，@GENE$ 基因型影响 @DISEASE$，与绝经后白人女性的身体成分、习惯性身体活动水平和 HRT 状态无关", "label": "1"}
+{"id": "139", "sentence": "@GENE$ 基因的 Ala54Thr 多态性与@DISEASE$、代谢综合征的标志物或芬兰冠心病患者血脂的脂肪酸谱无关。", "label": "1"}
+{"id": "140", "sentence": "@GENE$ 基因的 Ala54Thr 多态性与芬兰@DISEASE$ 患者的冠心病、代谢综合征标志物或血脂脂肪酸谱无关。", "label": "1"}
+{"id": "141", "sentence": "总之，@GENE$ 的 Thr54 等位基因与调整后的静息代谢率较低、减少内脏白色脂肪组织 (WAT) 的阻力和日本肥胖女性早发 @DISEASE$ 相关。", "label": "1"}
+{"id": "142", "sentence": "总之，在日本@DISEASE$ 女性中，@GENE$ 的 Thr54 等位基因与较低的调整后静息代谢率、减少内脏白色脂肪组织 (WAT) 的阻力和早发肥胖有关。", "label": "1"}
+{"id": "143", "sentence": "@GENE$ 基因座的 A54T 多态性是高加索人群中 @DISEASE$ 的危险因素。", "label": "1"}
+{"id": "144", "sentence": "我们的数据表明，@GENE$ 基因的 Ala54Thr 多态性不是导致日本儿童肥胖和@DISEASE$ 肥胖的主要因素。", "label": "1"}
+{"id": "145", "sentence": "这些结果表明@GENE$ 385 A/A 错义多态性作为超重/@DISEASE$ 的内源性大麻素危险因素的作用，并可能提供间接证据支持超重障碍中的大麻素拮抗剂治疗策略。", "label": "1"}
+{"id": "146", "sentence": "总之，我们提供了 G1691A 因子 V 点突变和@GENE$ Arg/Gln(353) 基因多态性以及因子 V 点突变和代谢风险因素之间对@DISEASE$ 风险的联合影响的证据。", "label": "1"}
+{"id": "147", "sentence": "纤维蛋白原基因启动子的 G-455A 多态性和@GENE$ 基因启动子的十聚体插入或缺失多态性不太可能是芬兰东部受试者@DISEASE$ 的主要遗传易感因素。", "label": "1"}
+{"id": "148", "sentence": "总之，β-纤维蛋白原 -455 G/A、GP IIIa PlA1/A2、PAI-1 4G/5G、@GENE$ 1691 G/A、TNFalpha -238 G/A、TNFalpha -308 G 之间没有关联/A、IL-1alpha -889 C/T、IL-1beta -511 C/T、MTHFR 677 C/T 和 eNOS 4 b/a 基因多态性和 PTCA 后@DISEASE$ 风险以及术后再狭窄复发重复 PTCA。", "label": "1"}
+{"id": "149", "sentence": "总之，β-纤维蛋白原 -455 G/A、GP IIIa PlA1/A2、PAI-1 4G/5G、@GENE$ 1691 G/A、TNFalpha -238 G/A、TNFalpha -308 G 之间没有关联/A、IL-1alpha -889 C/T、IL-1beta -511 C/T、MTHFR 677 C/T 和 eNOS 4 b/a 基因多态性与 PTCA 后再狭窄以及复发性@DISEASE$ 后的风险重复 PTCA。", "label": "1"}
+{"id": "150", "sentence": "我们得出结论，20210 G/A @GENE$ 基因突变不是我们主要是白种人的澳大利亚人群早产@DISEASE$ 的主要危险因素。", "label": "1"}
+{"id": "151", "sentence": "我们发现西班牙人群中@GENE$ 的 T 等位基因纯合性、46C-->T 多态性与急性@DISEASE$ 的风险高出 6 倍。", "label": "1"}
+{"id": "152", "sentence": "我们的结果与@GENE$ 序列变异和内源性雌激素暴露对@DISEASE$ 风险的联合效应假设一致。", "label": "1"}
+{"id": "153", "sentence": "我们的结果表明@GENE$ 多态性可能与@DISEASE$ 风险无关。", "label": "1"}
+{"id": "154", "sentence": "@GENE$ 和 VDR 基因可能以不同的方式促成@DISEASE$：雌激素敏感性影响绝经后早期的严重程度，而维生素 D 在雌激素损失的作用较弱的老年时期起着重要作用。", "label": "1"}
+{"id": "155", "sentence": "@GENE$ α 多态性，但不是 beta3-肾上腺素能受体基因，可能与 @DISEASE$ 的风险相关。", "label": "1"}
+{"id": "156", "sentence": "我们提供的证据表明 XRCC1、XRCC3 和@GENE$/XPF 基因的变体，特别是组合，有助于@DISEASE$ 易感性。", "label": "1"}
+{"id": "157", "sentence": "我们提供的证据表明 XRCC1、XRCC3 和 ERCC4/@GENE$ 基因的变体，特别是组合，有助于@DISEASE$ 易感性。", "label": "1"}
+{"id": "158", "sentence": "我们的研究结果表明，Ki-ras 和@GENE$ SNPs 可能是@DISEASE$ 形成的标志物，而细胞周期蛋白 D1 和 p16 SNPs 可能是对受辐射和未受辐射人群发生脑膜瘤的风险具有相反影响的基因标志物。", "label": "1"}
+{"id": "159", "sentence": "我们的研究结果表明，Ki-ras 和@GENE$ SNP 可能是脑膜瘤形成的标志物，而细胞周期蛋白 D1 和 p16 SNP 可能是对受辐射和未受辐射人群发生@DISEASE$ 的风险具有相反影响的基因标志物。", "label": "1"}
+{"id": "160", "sentence": "在我们的人群中，常见的@GENE$ 多态性与@DISEASE$ 的易感性无关。", "label": "1"}
+{"id": "161", "sentence": "总之，我们的结果支持 ER 密码子 594 和@GENE$ 密码子 655 多态性与@DISEASE$ 风险增加无关的观点。", "label": "1"}
+{"id": "162", "sentence": "@GENE$ 和 EPHX2 中的常见多态性似乎不是@DISEASE$ 的重要风险因素。", "label": "1"}
+{"id": "163", "sentence": "我们的数据显示，@GENE$ 基因中的 K1019X 突变在 AA 和 EA 之间的频率不同，与具有阳性家族史的 AA 男性的 PC 风险增加相关，并且可能是@DISEASE$ 的重要遗传风险因素AA。", "label": "1"}
+{"id": "164", "sentence": "尽管需要进一步的复制研究来检验所描述的基因型-表型关系的有效性，但我们的研究支持@GENE$ 121Q 预测南亚人和高加索人对@DISEASE$ 的遗传易感性的假设。", "label": "1"}
+{"id": "165", "sentence": "我们得出结论，@GENE$ 基因的 K121Q 多态性与出生长度之间的相互作用会影响胰岛素敏感性，并增加成年后对@DISEASE$ 和高血压的易感性。", "label": "1"}
+{"id": "166", "sentence": "作者未能在波兰人群中找到@GENE$ 基因的内含子插入多态性和动脉瘤@DISEASE$ 之间的关联。", "label": "1"}
+{"id": "167", "sentence": "总之，在卡尔加里地区接受根治性前列腺切除术的男性中，@GENE$ 基因变异 Leu217 和 Thr541 与@DISEASE$ 和 PIN 的风险增加有关。", "label": "1"}
+{"id": "168", "sentence": "@GENE$ 突变的缺失以及病例和对照中 ELAC2 和@DISEASE$ 的多态性之间缺乏关联使我们得出结论，ELAC2 对多巴哥的非洲加勒比男性前列腺癌患病率升高没有显着贡献。", "label": "1"}
+{"id": "169", "sentence": "@GENE$ 突变的缺失以及 ELAC2 多态性与病例和对照中前列腺癌之间缺乏关联使我们得出结论，ELAC2 对多巴哥的非洲加勒比男性@DISEASE$ 患病率升高没有显着贡献。", "label": "1"}
+{"id": "170", "sentence": "ELAC2 突变的缺失以及病例和对照中@GENE$ 和@DISEASE$ 的多态性之间缺乏关联使我们得出结论，ELAC2 对多巴哥的非洲加勒比男性前列腺癌患病率升高没有显着贡献。", "label": "1"}
+{"id": "171", "sentence": "ELAC2 突变的缺失以及@GENE$ 的多态性与病例和对照中前列腺癌之间缺乏关联使我们得出结论，ELAC2 对多巴哥的非洲加勒比男性@DISEASE$ 患病率升高没有显着贡献。", "label": "1"}
+{"id": "172", "sentence": "ELAC2 突变的缺失以及病例和对照中 ELAC2 多态性与@DISEASE$ 之间缺乏关联使我们得出结论，@GENE$ 对多巴哥的非洲加勒比男性前列腺癌患病率升高没有显着贡献。", "label": "1"}
+{"id": "173", "sentence": "在病例和对照中，ELAC2 突变的缺失以及 ELAC2 多态性与前列腺癌之间缺乏关联使我们得出结论，@GENE$ 对多巴哥的非洲裔加勒比男性的@DISEASE$ 患病率升高没有显着贡献。", "label": "1"}
+{"id": "174", "sentence": "没有证据表明@GENE$ 多态性与@DISEASE$ 或 PSA 水平有关。", "label": "1"}
+{"id": "175", "sentence": "本研究表明，@GENE$/ELAC2 基因中的常见变异对日本人群中@DISEASE$ 风险的作用有限。", "label": "1"}
+{"id": "176", "sentence": "本研究表明，HPC2/@GENE$ 基因中的常见变异对日本人群中@DISEASE$ 风险的作用有限。", "label": "1"}
+{"id": "177", "sentence": "本研究表明，@GENE$/ELAC2 基因中的常见变异对日本人群中@DISEASE$ 风险的作用有限。", "label": "1"}
+{"id": "178", "sentence": "本研究表明，HPC2/@GENE$ 基因中的常见变异在日本人群中对@DISEASE$ 风险的作用有限。", "label": "1"}
+{"id": "179", "sentence": "总之，我们的研究结果支持@GENE$ 在@DISEASE$ 发展中的病因学作用。", "label": "1"}
+{"id": "180", "sentence": "这是第二项发现@GENE$ +61 和@DISEASE$ 易感性之间没有关联的研究。", "label": "1"}
+{"id": "181", "sentence": "我们的结果表明，@GENE$ 基因的多态性可能不会增加日本人群对@DISEASE$ 的易感性。", "label": "1"}
+{"id": "182", "sentence": "我们的研究结果表明，@GENE$ 的 A-G 多态性不仅参与了@DISEASE$ 的发生，还参与了其恶性进展。", "label": "1"}
+{"id": "183", "sentence": "这项研究表明，@GENE$ 的高产量可能对@DISEASE$ 的发展很重要。", "label": "1"}
+{"id": "184", "sentence": "这项研究表明，@GENE$ 的高产量可能对@DISEASE$ 的发展很重要。", "label": "1"}
+{"id": "185", "sentence": "我们所有的结果表明，@GENE$ 基因型 (++) 在患有结构性心脏病、严重左心室功能障碍和恶性心室 @DISEASE$ 的患者中的存在增加了这些患者在这些心律失常期间血液动力学崩溃的风险。", "label": "1"}
+{"id": "186", "sentence": "我们所有的结果表明，@GENE$ 基因型 (++) 在结构性心脏病、严重左心室功能不全和恶性室性心律失常患者中的存在增加了这些患者在这些@DISEASE$ 期间血流动力学崩溃的风险。", "label": "1"}
+{"id": "187", "sentence": "本研究中的@GENE$ 基因多态性似乎与日本工人中@DISEASE$ 的发病率无关。", "label": "1"}
+{"id": "188", "sentence": "因此，ACE、血管紧张素原和@GENE$ 基因中检测到的多态性可能参与@DISEASE$ 疾病的发病机制。", "label": "1"}
+{"id": "189", "sentence": "因此，与之前报告爱尔兰和德国人群中@GENE$ 基因与@DISEASE$ 呈正相关的研究相比，我们的数据表明人类 DTNBP1 不太可能是来自台湾的中国汉族患者精神分裂症的主要易感基因。", "label": "1"}
+{"id": "190", "sentence": "因此，与之前报告@GENE$ 基因与爱尔兰和德国人群中的精神分裂症呈正相关的研究相比，我们的数据表明人类 DTNBP1 不太可能是台湾中国汉族患者@DISEASE$ 的主要易感基因。", "label": "1"}
+{"id": "191", "sentence": "因此，与之前报告爱尔兰和德国人群中 DTNBP1 基因与@DISEASE$ 呈正相关的研究相比，我们的数据表明人类@GENE$ 不太可能是来自台湾的中国汉族患者精神分裂症的主要易感基因。", "label": "1"}
+{"id": "192", "sentence": "因此，与之前报告 DTNBP1 基因与爱尔兰和德国人群精神分裂症呈正相关的研究相比，我们的数据表明人类@GENE$ 不太可能是台湾中国汉族患者@DISEASE$ 的主要易感基因。", "label": "1"}
+{"id": "193", "sentence": "我们的研究为@GENE$ 基因在@DISEASE$ 的遗传病因学中的作用提供了进一步的证据。", "label": "1"}
+{"id": "194", "sentence": "我们得出结论，@GENE$ *2236 C 等位基因可能标记 DRP-2 或附近基因中的另一个多态性，这可能影响对@DISEASE$ 的易感性。", "label": "1"}
+{"id": "195", "sentence": "我们得出结论，DRP-2 *2236 C 等位基因可能标记@GENE$ 或附近基因中的另一个多态性，这可能影响对@DISEASE$ 的易感性。", "label": "1"}
+{"id": "196", "sentence": "我们的结果表明，@GENE$ 基因 3'UTR 中的 *2236C 等位基因，或与该等位基因连锁不平衡的未知突变，可能会降低对 @DISEASE$ 的易感性，尤其是偏执型亚型。", "label": "1"}
+{"id": "197", "sentence": "这些结果表明，@GENE$ 基因的 3'UTR 中的 *2236C 等位基因，或与该等位基因连锁不平衡的未知突变，可能会降低对 @DISEASE$ 的易感性，尤其是偏执亚型。", "label": "1"}
+{"id": "198", "sentence": "这些结果提供了@GENE$ 和@DISEASE$ 之间关联的进一步证据，支持多巴胺通路参与 CD 的发病机制。", "label": "1"}
+{"id": "199", "sentence": "目前的结果不支持@GENE$ 在瑞典白种人中@DISEASE$ 的病因学中起主要作用。", "label": "1"}
+{"id": "200", "sentence": "在患有@DISEASE$ 的儿童中，拥有@GENE$ 7 重复等位基因似乎与神经心理任务的不准确、冲动的反应方式有关，而这种方式不能用 ADHD 症状的严重程度来解释。", "label": "1"}
+{"id": "201", "sentence": "在患有 ADHD 的儿童中，拥有@GENE$ 7 重复等位基因似乎与神经心理任务的不准确、冲动的反应方式有关，@DISEASE$ 症状严重程度无法解释。", "label": "1"}
+{"id": "202", "sentence": "在患有@DISEASE$ 的儿童中，拥有@GENE$ 7 重复等位基因似乎与神经心理任务的不准确、冲动的反应方式有关，而这种方式不能用 ADHD 症状的严重程度来解释。", "label": "1"}
+{"id": "203", "sentence": "在患有 ADHD 的儿童中，拥有@GENE$ 7 重复等位基因似乎与神经心理任务的不准确、冲动的反应方式有关，@DISEASE$ 症状严重程度无法解释。", "label": "1"}
+{"id": "204", "sentence": "我们的结果表明，MAO-A、COMT、5-HT2A、DRD2 和@GENE$ 基因变异不参与对@DISEASE$ 不同时间进程的易感性。", "label": "1"}
+{"id": "205", "sentence": "目前的结果不支持@GENE$ 在瑞典白种人中@DISEASE$ 的病因学中起主要作用。", "label": "1"}
+{"id": "206", "sentence": "总体而言，我们的结果表明，HTR2A、5-HTT、@GENE$ 和 GABA(A)gamma2 基因不太可能是该人群中@DISEASE$ 的主要遗传风险因素，除了鼻吸入和DRD2 启动子 - 141DeltaC 多态性。", "label": "1"}
+{"id": "207", "sentence": "有充分的证据表明，@GENE$ 的基因编码在@DISEASE$ 的遗传易感性中没有发挥主要作用。", "label": "1"}
+{"id": "208", "sentence": "这些结果表明，@GENE$ 的 S/S 基因型与@DISEASE$ 患者的较差治疗反应和更严重的执行功能障碍相关。", "label": "1"}
+{"id": "209", "sentence": "我们建议@GENE$ Ser9Gly 多态性可能是眼球运动性能的一个促成因素，用作@DISEASE$ 的表型标记。", "label": "1"}
+{"id": "210", "sentence": "尽管@GENE$ TaqI A 多态性仍有可能在改变疾病的表型中发挥一定作用，但这些结果表明 A1 等位基因和纯合子 A1 基因型均与@DISEASE$ 无关。", "label": "1"}
+{"id": "211", "sentence": "结果表明，@GENE$ 启动子区域和 DAT 基因在赋予对@DISEASE$ 易感性方面没有发挥重要作用。", "label": "1"}
+{"id": "212", "sentence": "我们的研究结果表明，@GENE$ -141C Ins 等位基因和 5-HTTLPR S 等位基因是墨西哥裔美国人@DISEASE$ 的遗传风险因素，并且吸烟调节遗传风险因素与酗酒之间的关联。", "label": "1"}
+{"id": "213", "sentence": "我们的研究结果表明，@GENE$ -141C Ins 等位基因和 5-HTTLPR S 等位基因是墨西哥裔美国人酗酒的遗传风险因素，吸烟调节遗传风险因素与@DISEASE$ 之间的关联。", "label": "1"}
+{"id": "214", "sentence": "这些发现表明 TaqI A @GENE$) 多态性与 @DISEASE$ 的易感性相关。", "label": "1"}
+{"id": "215", "sentence": "我们得出结论，我们的数据不支持@GENE$ 和@DISEASE$ 的 A1 等位基因之间的等位基因关联。", "label": "1"}
+{"id": "216", "sentence": "我们的结果表明，MAO-A、COMT、5-HT2A、@GENE$ 和 DRD4 基因变体不参与对@DISEASE$ 不同时间进程的易感性。", "label": "1"}
+{"id": "217", "sentence": "对 247 名日本@DISEASE$ 患者、53 名酗酒 WKS 患者和 368 名非痴呆日本对照受试者的特定@GENE$ 基因多态性的检查显示 DLST 基因型没有显着差异，并且未能复制早期研究的结果，表明 DLST 基因多态性之间存在关联和广告。", "label": "1"}
+{"id": "219", "sentence": "对 247 名日本@DISEASE$ 患者、53 名酒精 WKS 患者和 368 名非痴呆日本对照受试者的特定 DLST 基因多态性的检查显示，@GENE$ 基因型没有显着差异，并且未能复制早期研究的结果，表明 DLST 基因多态性之间存在关联和广告。", "label": "1"}
+{"id": "221", "sentence": "对 247 名日本@DISEASE$ 患者、53 名酗酒 WKS 患者和 368 名非痴呆日本对照受试者的特定 DLST 基因多态性的检查显示 DLST 基因型没有显着差异，并且未能复制早期研究的结果表明@GENE$ 基因多态性之间存在关联和广告。", "label": "1"}
+{"id": "223", "sentence": "这项研究为@GENE$ 构成一个真正的@DISEASE$ 适度影响风险因素的假设提供了支持。", "label": "1"}
+{"id": "224", "sentence": "@GENE$ 基因型在赋予@DISEASE$ 风险方面似乎独立于 APOE 运作。", "label": "1"}
+{"id": "225", "sentence": "这些结果表明@GENE$ 不太可能在@DISEASE$ 易感性中发挥重要作用。", "label": "1"}
+{"id": "226", "sentence": "这些结果表明@GENE$ 不太可能在@DISEASE$ 易感性中发挥重要作用。", "label": "1"}
+{"id": "227", "sentence": "这些结果表明，@GENE$ 的基因组间隔可能参与转录调节，但在日本@DISEASE$ 患者中并未显示出主要的遗传相关性。", "label": "1"}
+{"id": "228", "sentence": "尽管在几组白人受试者中研究了@GENE$ 基因的 T79C SNP，但该 SNP 与@DISEASE$ 相关表型之间的关联（如前所述）并未在我们的人群中得到证实。", "label": "1"}
+{"id": "229", "sentence": "@GENE$ 的变异有助于@DISEASE$ 诊断，具有明显的性别特异性影响。", "label": "1"}
+{"id": "230", "sentence": "@GENE$ 的遗传变异可以定义 @DISEASE$ 的高风险亚组，其中慢性支气管炎的成分占主导地位。", "label": "1"}
+{"id": "231", "sentence": "@GENE$ 的遗传变异可以定义 @DISEASE$ 的高风险亚组，其中慢性支气管炎的成分占主导地位。", "label": "1"}
+{"id": "232", "sentence": "@GENE$ 的遗传变异可以定义 @DISEASE$ 的高风险亚组，其中慢性支气管炎的成分占主导地位。", "label": "1"}
+{"id": "233", "sentence": "@GENE$ 的遗传变异可以定义 @DISEASE$ 的高风险亚组，其中慢性支气管炎的成分占主导地位。", "label": "1"}
+{"id": "234", "sentence": "观察到的单倍型关联提供了@DISEASE$ 易感性中@GENE$ 多态性重要性的第一个证据。", "label": "1"}
+{"id": "235", "sentence": "在@GENE$ 和@DISEASE$ 风险的 Arg201Gly 多态性之间没有观察到关联。", "label": "1"}
+{"id": "236", "sentence": "这些结果表明@GENE$ 对日语中@DISEASE$ 的发展没有贡献。", "label": "1"}
+{"id": "237", "sentence": "在选定的高加索人群中，@GENE$ SNP 386 完全不存在，SNP 260 与生精失败无关，因此不代表@DISEASE$ 基因诊断的分子标记。", "label": "1"}
+{"id": "238", "sentence": "在基于跨该基因位点的连锁不平衡块信息的单倍型分析中，我们证明了@DISEASE$ 和@GENE$ 单倍型之间的高度显着关联 (P = 2.0173 x 10(-21))，因此提供了独立统计支持 DAAO 基因与精神分裂症的关联，并表明 DAAO 基因可能在中国汉族精神分裂症的病因学中发挥重要作用。", "label": "1"}
+{"id": "239", "sentence": "在基于跨该基因座的连锁不平衡块信息的单倍型分析中，我们证明了精神分裂症与@GENE$ 单倍型之间存在高度显着的关联（P = 2.0173 x 10（-21）），因此提供了独立的统计数据支持 DAAO 基因与@DISEASE$ 的关联，表明 DAAO 基因可能在中国汉族精神分裂症的病因学中发挥重要作用。", "label": "1"}
+{"id": "240", "sentence": "在基于跨该基因座的连锁不平衡块信息的单倍型分析中，我们证明了精神分裂症与@GENE$ 单倍型之间存在高度显着的关联（P = 2.0173 x 10（-21）），因此提供了独立的统计数据支持 DAAO 基因与精神分裂症的关联，并表明 DAAO 基因可能在汉族人@DISEASE$ 的病因学中发挥重要作用。", "label": "1"}
+{"id": "241", "sentence": "在基于跨该基因座的连锁不平衡块信息的单倍型分析中，我们证明了@DISEASE$ 和 DAAO 单倍型之间存在高度显着的关联 (P = 2.0173 x 10(-21))，因此提供了独立的统计数据支持 @GENE$ 基因与精神分裂症的关联，并表明 DAAO 基因可能在中国汉族精神分裂症的病因学中发挥重要作用。", "label": "1"}
+{"id": "242", "sentence": "在基于跨该基因位点的连锁不平衡块信息的单倍型分析中，我们证明了精神分裂症与 DAAO 单倍型之间存在高度显着的关联（P = 2.0173 x 10（-21）），因此提供了独立的统计支持@GENE$ 基因与@DISEASE$ 的关联表明 DAAO 基因可能在汉族精神分裂症的病因学中发挥重要作用。", "label": "1"}
+{"id": "244", "sentence": "在基于跨该基因座的连锁不平衡块信息的单倍型分析中，我们证明了@DISEASE$ 和 DAAO 单倍型之间存在高度显着的关联 (P = 2.0173 x 10(-21))，因此提供了独立的统计数据支持 DAAO 基因与精神分裂症的关联，并表明 @GENE$ 基因可能在中国汉族精神分裂症的病因学中发挥重要作用。", "label": "1"}
+{"id": "245", "sentence": "在基于跨该基因位点的连锁不平衡块信息的单倍型分析中，我们证明了精神分裂症与 DAAO 单倍型之间存在高度显着的关联（P = 2.0173 x 10（-21）），因此提供了独立的统计支持DAAO 基因与@DISEASE$ 的关联表明@GENE$ 基因可能在中国汉族精神分裂症的病因学中发挥重要作用。", "label": "1"}
+{"id": "246", "sentence": "在基于跨该基因位点的连锁不平衡块信息的单倍型分析中，我们证明了精神分裂症与 DAAO 单倍型之间存在高度显着的关联（P = 2.0173 x 10（-21）），因此提供了独立的统计支持DAAO 基因与精神分裂症的关联，表明@GENE$ 基因可能在汉族人的@DISEASE$ 病因学中发挥重要作用。", "label": "1"}
+{"id": "247", "sentence": "我们的研究结果无法证明 POF1B 有任何参与，但表明 @GENE$ 基因中的罕见突变可能在 @DISEASE$ 表型中起作用。", "label": "1"}
+{"id": "248", "sentence": "在这里，我们报告 APOE 启动子、ACE1 和@GENE$ 基因内的多态性不是@DISEASE$ 的危险因素，并且与 Abeta 的实质或血管积累无关。", "label": "1"}
+{"id": "249", "sentence": "我们的结果表明内含子 2 @GENE$ C/C 基因型可能易患@DISEASE$，并且这种关联独立于载脂蛋白 E 基因型。", "label": "1"}
+{"id": "250", "sentence": "这些发现提供了直接证据，表明@GENE$ 和 ApoE 多态性协同增加了@DISEASE$ 发展的风险，并影响了认知能力下降的速度。", "label": "1"}
+{"id": "251", "sentence": "我们的数据表明@GENE$ 的 Intron 2 多态性不影响我们样本中@DISEASE$ 的风险。", "label": "1"}
+{"id": "252", "sentence": "我们的结果表明，@GENE$ 基因位点可能通过增加大脑中的 24S-羟基胆固醇/胆固醇比率而易患@DISEASE$。", "label": "1"}
+{"id": "253", "sentence": "@GENE$ 影响大脑 β-淀粉样蛋白负荷、β-淀粉样蛋白肽和磷酸化 tau 的脑脊液水平，以及迟发性散发性@DISEASE$ 的遗传风险。", "label": "1"}
+{"id": "254", "sentence": "CYP3A4 和@GENE$ 与@DISEASE$ 相关，不处于连锁平衡，并且都参与睾酮代谢的观察表明，CYP3A4*1B 和 CYP3A43*3 可能影响患前列腺癌的概率和疾病严重程度.", "label": "1"}
+{"id": "255", "sentence": "CYP3A4 和@GENE$ 与前列腺癌相关、不处于连锁平衡且均参与睾酮代谢的观察表明，CYP3A4*1B 和 CYP3A43*3 可能影响患@DISEASE$ 的概率和疾病严重程度.", "label": "1"}
+{"id": "256", "sentence": "观察到 CYP3A4 和 CYP3A43 与@DISEASE$ 相关，不处于连锁平衡状态，并且都参与睾酮代谢，这表明 CYP3A4*1B 和@GENE$*3 可能影响患前列腺癌的概率和疾病严重程度.", "label": "1"}
+{"id": "257", "sentence": "观察到 CYP3A4 和 CYP3A43 与前列腺癌相关，不处于连锁平衡，并且都参与睾酮代谢，这表明 CYP3A4*1B 和@GENE$*3 可能影响患有@DISEASE$ 的概率和疾病严重程度.", "label": "1"}
+{"id": "258", "sentence": "@GENE$ 影响大脑 β-淀粉样蛋白负荷、β-淀粉样蛋白肽和磷酸化 tau 的脑脊液水平，以及迟发性散发性@DISEASE$ 的遗传风险。", "label": "1"}
+{"id": "259", "sentence": "我们的结果表明@GENE$-Pro(340)Ala 多态性导致@DISEASE$ 风险。", "label": "1"}
+{"id": "260", "sentence": "@GENE$ 基因的功能相关多态性与 @DISEASE$ 风险增加独立相关。", "label": "1"}
+{"id": "261", "sentence": "@GENE$ C2等位基因是@DISEASE$的易感因子，尤其是结肠癌，易感基因型与盐渍食物之间存在明显的基因-环境相互作用。", "label": "1"}
+{"id": "262", "sentence": "@GENE$ c1/c1基因型是中国人@DISEASE$发展的易感因素，易感基因型与吸烟之间存在明显的基因-环境相互作用。", "label": "1"}
+{"id": "263", "sentence": "这些数据在欧洲美国患者群体中建立了@GENE$ 的全基因、高分辨率单倍型结构，并表明外显子的遗传变异，而不是启动子或其他调控区域，主要负责与 CYP2C9 相关的@DISEASE$该人群中的变异体。", "label": "1"}
+{"id": "264", "sentence": "这些数据在欧洲美国患者群体中建立了 CYP2C9 的全基因、高分辨率单倍型结构，并表明外显子的遗传变异，而不是启动子或其他调控区域，主要负责与@GENE$ 相关的@DISEASE$该人群中的变异体。", "label": "1"}
+{"id": "265", "sentence": "结果表明，由于内源性代谢的改变，@GENE$ 遗传多态性可能与@DISEASE$ 相关，尽管不能排除 CYP2C9 与其他一些与抑郁症相关的基因之间的联系。", "label": "1"}
+{"id": "266", "sentence": "结果表明，由于内源性代谢的改变，CYP2C9 基因多态性可能与@DISEASE$ 相关，尽管不能排除@GENE$ 与其他一些与抑郁症相关的基因之间的联系。", "label": "1"}
+{"id": "267", "sentence": "本研究未确定@GENE$ 多态性和@DISEASE$ 风险之间的关联。", "label": "1"}
+{"id": "268", "sentence": "这些结果不支持以下假设：使用 NSAID 导致的@DISEASE$ 与@GENE$ 的代谢不良基因型有关。", "label": "1"}
+{"id": "269", "sentence": "@GENE$ 多态性对那格列奈动力学的影响可能导致@DISEASE$ 风险略有增加，这可能与糖尿病患者相关。", "label": "1"}
+{"id": "270", "sentence": "我们的结果表明，胃排空率而非@GENE$ 多态性可能是 PPI 耐药@DISEASE$ 患者延迟愈合的重要因素。", "label": "1"}
+{"id": "271", "sentence": "我们的数据表明，由于遗传多态性导致的@GENE$ 活性不足会降低咀嚼槟榔的@DISEASE$ 风险。", "label": "1"}
+{"id": "272", "sentence": "在这个高加索人群中，我们既没有发现尼古丁代谢受损与香烟消费之间的关系，也没有发现与存在缺陷的@GENE$ 等位基因相关的@DISEASE$ 风险的任何改变（比值比 = 1.1，95% 置信区间 = 0.7- 1.9).", "label": "1"}
+{"id": "273", "sentence": "这项研究表明，@GENE$ 基因并不作为@DISEASE$ 易感基因发挥主要作用。", "label": "1"}
+{"id": "274", "sentence": "结果表明，CYP19 Arg(264)Cys 多态性改变了@DISEASE$ 风险（OR=1.5，95% CI=1.1-2.2），尤其是与饮酒有关（P for interaction=0.04），而@GENE$ Leu(432)Val 多态性似乎在这里不起作用。", "label": "1"}
+{"id": "275", "sentence": "我们的数据显示@DISEASE$ 与@GENE$ 基因的 Leu432Val 多态性或 CYP19 基因的四核苷酸重复之间没有关联。", "label": "1"}
+{"id": "276", "sentence": "我们的研究表明，@GENE$ 和 SULT1A1 的基因多态性会导致当前吸烟者对@DISEASE$ 产生个体易感性。", "label": "1"}
+{"id": "277", "sentence": "我们得出结论，@GENE$* 3 等位基因似乎是土耳其女性对@DISEASE$ 易感性的一个因素，尤其是 BMI 大于 24 kg/m(2) 的女性。", "label": "1"}
+{"id": "278", "sentence": "我们的结果表明，Val @GENE$ 等位基因增加了暴露于垃圾焚烧炉或农业污染物的女性对@DISEASE$ 的易感性。", "label": "1"}
+{"id": "279", "sentence": "这些结果不支持@GENE$*3 在我们人口中@DISEASE$ 发展中的有利作用。", "label": "1"}
+{"id": "280", "sentence": "我们没有发现@GENE$ 基因型和@DISEASE$ 风险之间存在整体关联的证据，也没有任何明确的基因-环境相互作用迹象。", "label": "1"}
+{"id": "281", "sentence": "这些结果表明，HLA I 类抗原和@GENE$ A-308G 与 TDI 诱导的@DISEASE$ 的易感性或抗性无关。", "label": "0"}
+{"id": "282", "sentence": "这些结果表明@GENE$ 中的 C1772T 多态性不参与@DISEASE$ 或结直肠癌的转移。", "label": "0"}
+{"id": "283", "sentence": "这些结果提供了大量证据表明@GENE$ 内或极其接近@GENE$ 的遗传变异会影响@DISEASE$ 风险和与 AD 严重程度相关的特征。", "label": "0"}
+{"id": "284", "sentence": "这项研究提供了第一个证据，表明@GENE$ 可能是影响日本受试者动脉粥样硬化的@DISEASE$ 的候选易感位点。", "label": "0"}
+{"id": "285", "sentence": "由于只有八名@GENE$ 铁超载 HbH 患者在杂合子状态下携带 TFR2 或 HFE 基因中的@DISEASE$，并且他们的铁负荷状态与没有此类缺陷的匹配对照相当，看起来过量的积累HbH 病中的铁更可能是继发于无效红细胞生成的饮食吸收增加的结果。", "label": "0"}
+{"id": "286", "sentence": "@GENE$ 基因的 H63D @DISEASE$ 对一般人群中的 sTfR 浓度有中等但显着的影响，与未突变的纯合子相比，一个或两个突变等位基因的存在与 sTfR 平均低 0.27 mg/L 相关。", "label": "0"}
+{"id": "287", "sentence": "在来自意大利南部的地中海人群中，C282Y @DISEASE$ 偶尔出现，@GENE$ 多态性似乎与诊断相关性很​​小。", "label": "0"}
+{"id": "288", "sentence": "@GENE$ 基因型 GG 与@DISEASE$ 患者的肝硬化有关。", "label": "0"}
+{"id": "289", "sentence": "C282Y 和 H63D 突变似乎与@DISEASE$ 患者的@GENE$ 风险增加无关。", "label": "0"}
+{"id": "290", "sentence": "患者及其亲属的临床@DISEASE$ 和实验室检查结果与 E168Q 突变本身不太可能导致 @GENE$ 的结论一致。", "label": "0"}
+{"id": "291", "sentence": "我们的前瞻性研究结果表明，携带@GENE$ C282Y @DISEASE$ 的个体患冠心病的风险可能会增加。", "label": "0"}
+{"id": "292", "sentence": "我们得出结论，G1514-->A @DISEASE$ 的纯合性完全导致该家族中成人形式的 Sandhoff 病，并且 A619-->G 替换不是有害突变，而是常见的@GENE$ 多态性.", "label": "0"}
+{"id": "293", "sentence": "结果进一步支持了染色体 16q24.3 位点的重复扩增是@GENE$ 的直接原因的证据，并为具有@DISEASE$ 样表型的患者的基因检测提供了初步指南。", "label": "0"}
+{"id": "294", "sentence": "这些发现表明，正常重复大小的增加可能会减轻@DISEASE$ 在受@GENE$ 影响且具有较大扩展 CAG 重复的人中的表达。", "label": "0"}
+{"id": "295", "sentence": "新基因@GENE$可能与肝癌的@DISEASE$和增殖有关。", "label": "0"}
+{"id": "296", "sentence": "@GENE$/42、CD17、CD71/72、IVS-II-654 的@DISEASE$ 突变对 Hb F 水平没有影响，但 (G)Gamma-158(C-->T) 与适度中国广西地区 β-地中海贫血杂合子 Hb F 水平升高。", "label": "0"}
+{"id": "297", "sentence": "我们的研究结果表明，TIM-1 的遗传变异而非@GENE$ 基因导致了这个非裔美国人人群的@DISEASE$ 易感性。", "label": "0"}
+{"id": "298", "sentence": "我们的结果表明，@GENE$ 168His 变体与对@DISEASE$ 的易感性降低有关。", "label": "0"}
+{"id": "299", "sentence": "我们没有发现任何证据表明@GENE$、GNGT1 或 RGS9 基因中的@DISEASE$ 是视网膜色素变性的原因。", "label": "0"}
+{"id": "300", "sentence": "统计分析表明，@GENE$ 变体没有关联，因此该基因似乎在@DISEASE$ 的发展中没有发挥重要作用。", "label": "0"}
+{"id": "301", "sentence": "我们的研究结果表明，在患有@DISEASE$ 和复发性肺炎的儿童中，@GENE$、CYP2E1 和 GSTT1 基因的多态性可能在对严重气道和肺损伤的易感性方面发挥重要作用。", "label": "0"}
+{"id": "302", "sentence": "我们的研究结果支持这样的观点，即@GENE$ 基因型有助于个体@DISEASE$ 风险，尤其是在某些组合中。", "label": "0"}
+{"id": "303", "sentence": "我们得出结论，@GENE$、GSTM3、GSTT1 和 GSTM1 基因的遗传改变在@DISEASE$ 中没有发挥主导作用。", "label": "0"}
+{"id": "305", "sentence": "我们得出结论，GSTT1 null 和 PON1 BB 这两种多态性是常见的基因@GENE$，它们具有较低的个体风险，但可能是总体人群@DISEASE$ 风险的重要决定因素，尤其是在暴露于 NHL 相关致癌物的人群中。", "label": "0"}
+{"id": "306", "sentence": "@DISEASE$ 相关基因（@GENE$、GSTM1、GSTT1、MPO、MnSOD）的多态性似乎不是先兆子痫的危险因素。", "label": "0"}
+{"id": "307", "sentence": "@GENE$-null 基因型可能会增加 HL 的风险，并与有利的预后因素相关，并且存在至少一种 GST @DISEASE$ 表明无病生存率有所提高。", "label": "0"}
+{"id": "308", "sentence": "@GENE$ 酶的遗传 @DISEASE$ 是 2 型糖尿病患者过早血管发病率和死亡的独立且强大的预测因子。", "label": "0"}
+{"id": "309", "sentence": "总之，@GENE$、GSTM1 和 GSTP1 基因分型似乎是白细胞中 BPDE-@DISEASE$ 的风险预测因子。", "label": "0"}
+{"id": "310", "sentence": "结果首次表明，除了@GENE$ 之外，NAT 在与职业暴露于二异氰酸酯相关的@DISEASE$ 反应的开始中发挥重要作用。", "label": "0"}
+{"id": "311", "sentence": "我们的研究结果表明，@GENE$ 基因外显子 5 的多态性 (Ile105Val) 可能导致日本人群易患与 MAP 滥用相关的@DISEASE$。", "label": "0"}
+{"id": "312", "sentence": "我们的研究结果表明，@GENE$ 基因家族成员的遗传变异性可能与对@DISEASE$ 的易感性增加有关。", "label": "0"}
+{"id": "313", "sentence": "@GENE$ Ile(105)Val 多态性以剂量依赖性方式与接受 5-FU/奥沙利铂化疗的晚期@DISEASE$ 患者的存活率增加相关。", "label": "0"}
+{"id": "314", "sentence": "我们的研究结果表明，@GENE$ 基因簇内多态基因型的相互作用会影响个体对结直肠@DISEASE$ 的易感性，GSTM3*B 变异的存在是一个风险因素，尤其是与 GSTM1-null 基因型结合时。", "label": "0"}
+{"id": "315", "sentence": "在职业性 PAH 暴露工人中发现@GENE$、NQO1 和 mEH 基因的遗传多态性与染色体损伤风险之间存在显着关联，这与 PAH @DISEASE$ 的机制有关。", "label": "0"}
+{"id": "316", "sentence": "这项研究表明，@GENE$ 多态性及其与 GSTM1 的组合可能与日本人群中的@DISEASE$ 易感性有关。", "label": "0"}
+{"id": "317", "sentence": "这些数据表明@GENE$ 和 GSTM1 中的多态性导致女性患@DISEASE$ 的风险增加。", "label": "0"}
+{"id": "318", "sentence": "这些发现表明，患有肺腺癌的吸烟者中@GENE$ 基因@DISEASE$ 的部分原因可能是 BP 二醇环氧化物的积累，而 GSTM1 无效基因型的个体无法很好地解毒。", "label": "0"}
+{"id": "319", "sentence": "@GENE$ 基因型 0/0 和基质金属蛋白酶 9 @DISEASE$ 等位基因 (-15621) 的组合是慢性阻塞性肺病 (OR-7.7) 的危险因素。", "label": "0"}
+{"id": "320", "sentence": "我们的数据表明，@GENE$ 基因启动子区域中 29-bp 核苷酸的@DISEASE$ 与 PD 的发展相关", "label": "0"}
+{"id": "321", "sentence": "这些结果表明，尿 1-OHPG 和@GENE$ @DISEASE$ 之间的关联可能受 GSTM1 基因型的调节。", "label": "0"}
+{"id": "322", "sentence": "@GENE$-null 基因型可能与 HCC 风险增加有关，但与@DISEASE$ 和 LC 无关。", "label": "0"}
+{"id": "323", "sentence": "具有@GENE$ 基因纯合子@DISEASE$ 和 NAT2 慢乙酰化基因型且暴露于高水平石棉的个体似乎对石棉相关肺部疾病的易感性增强。", "label": "0"}
+{"id": "324", "sentence": "在本研究中未检测到@GENE$ 等位基因（包括@DISEASE$）与白内障之间的关联。", "label": "0"}
+{"id": "325", "sentence": "结果保证了与分子@GENE$ 相关的基因变异作为@DISEASE$ 的可能内表型的兴趣，但在解释这些初步结果时应谨慎，并且必须等待未来的复制研究。", "label": "0"}
+{"id": "326", "sentence": "这些数据表明，@GENE$ 基因的多态性可能有助于预测接受奥氮平治疗的精神分裂症患者的@DISEASE$ 负改善。", "label": "0"}
+{"id": "327", "sentence": "这些结果表明 NMDAR 基因的变异与@DISEASE$ 和相关的@GENE$ 相关。", "label": "0"}
+{"id": "328", "sentence": "显示精神分裂症与@GENE$ 上游区域的 SNP 之间没有显着关联，这些 SNP 显然在日本人群的@DISEASE$ 精神分裂症中没有发挥关键作用。", "label": "0"}
+{"id": "329", "sentence": "我们得出的结论是，@GENE$ 在日本人的精神分裂症 @DISEASE$ 中没有发挥主要作用。", "label": "0"}
+{"id": "330", "sentence": "我们得出结论，@GENE$ 在日本人群的精神分裂症@DISEASE$ 中没有发挥主要作用。", "label": "0"}
+{"id": "331", "sentence": "这些结果表明，@GENE$ 基因的功能变异与 2 型糖尿病患者的颈动脉 IMT 增加以及心血管和@DISEASE$ 风险相关。", "label": "0"}
+{"id": "332", "sentence": "@DISEASE$ 负责在患者中观察到的@GENE$ 表型。", "label": "0"}
+{"id": "333", "sentence": "我们的结果表明，血小板@DISEASE$ 因子和凝血酶受体蛋白 GP Ib-V-IX 的@GENE$ Met/VNTR B 单倍型可能被认为是早期冠状动脉血栓形成、致命性 MI 和 SCD 的主要危险因素中年。", "label": "0"}
+{"id": "334", "sentence": "综上所述，我国人群血小板@GENE$ Ia C807T和GP Ib C3550T多态性较白种人少见，GP IIIa Pl(A1/A2)基因@DISEASE$未见，均与缺血无关台湾年轻人中风。", "label": "0"}
+{"id": "335", "sentence": "得出的结论是，与血小板@GENE$ Ibalpha 表面表达增加相关的 Kozak T/C 多态性是首次出现@DISEASE$ 的独立危险因素。", "label": "0"}
+{"id": "336", "sentence": "在不稳定的冠状动脉@DISEASE$ 人群中，GPIb(alpha) 中的 T-5C 多态性影响后续@GENE$ 的风险。", "label": "0"}
+{"id": "337", "sentence": "在所研究的家族中发现的@DISEASE$ 是@GENE$ Ib/IX/V 复合物缺陷的原因，这表明第 209 位氨基酸的半胱氨酸可能与二硫键有关。", "label": "0"}
+{"id": "338", "sentence": "在该家族中证明的@DISEASE$ 提供的证据表明，@GENE$ 的合成缺陷会改变 GP Ib-IX 复合物的膜表达，并可能导致 Bernard-Soulier 综合征。", "label": "0"}
+{"id": "339", "sentence": "@GENE$ 和 GNB3 候选基因的多态性标记通过改变 AH 和@DISEASE$ 严重程度以及促炎细胞因子水平影响 DM2 患者病理体征的临床多样性。", "label": "0"}
+{"id": "340", "sentence": "尽管该基因对每个表型的影响似乎是@DISEASE$，但考虑到 C825T 多态性对危险因素的影响的组合@GENE$，GNB3 基因可能是人类健康的重要基因。", "label": "0"}
+{"id": "341", "sentence": "总之，我们的结果表明@DISEASE$ 与 G 蛋白@GENE$ 亚基基因的 C825T 等位基因之间存在关联。", "label": "0"}
+{"id": "342", "sentence": "该研究的当前发现表明，体脂增加以及心肺健康水平低下可能会放大 @GENE$ 825T 等位基因对该研究人群中@DISEASE$ 压力升高的遗传易感性。", "label": "0"}
+{"id": "343", "sentence": "这些结果表明@GENE$ C825T 多态性对@DISEASE$ 中对盐的升压反应没有重大影响，因此不支持其作为该疾病中盐敏感性的早期遗传标记的用途。", "label": "0"}
+{"id": "344", "sentence": "@GENE$ 的 T825 等位基因与血清钾和总胆固醇水平升高有关，但与日本人群中的@DISEASE$ 压力无关。", "label": "0"}
+{"id": "345", "sentence": "我们得出结论，G 蛋白@GENE$ 亚基基因的 C825T 多态性不会显着促进@DISEASE$ 或肥胖的发展，也不是白人男性血压和体重指数的重要决定因素。", "label": "0"}
+{"id": "346", "sentence": "总而言之，我们的结果表明，@GENE$ 825T 等位基因与腹部脂肪分布男性的@DISEASE$ 减少相关，与中年白人男性和女性的颈动脉粥样硬化更严重相关。", "label": "0"}
+{"id": "347", "sentence": "这些结果表明，@GENE$（或密切相关的基因）的改变与少突神经胶质瘤的发展和@DISEASE$ 相关。", "label": "0"}
+{"id": "348", "sentence": "我们的数据表明，@GENE$ 改变很常见，但在有或没有 Cx26 改变的奥地利听力 @DISEASE$ 人群中没有遗传相关性或遗传相关性很低。", "label": "0"}
+{"id": "349", "sentence": "这些患者都没有在@GENE$ 中携带@DISEASE$，这表明这种缺失的发生仅限于某些人群。", "label": "0"}
+{"id": "350", "sentence": "对从遗传性听力@DISEASE$ 个体的口腔涂片中回收的 DNA 中的@GENE$ 突变进行筛查，为早期诊断提供了一种简单、非侵入性的方法，并为遗传咨询奠定了基础。", "label": "0"}
+{"id": "351", "sentence": "将@GENE$ 鉴定为 DFNB1 基因应该有助于更好地了解正常和异常听力的生物学，有助于形成诊断基础，并可能有助于制定治疗这种常见@DISEASE$ 的策略。", "label": "0"}
+{"id": "352", "sentence": "我们的研究表明，@GENE$ 功能的丧失导致 X 连锁 Charcot-Marie-Tooth 病的主要@DISEASE$。", "label": "0"}
+{"id": "353", "sentence": "总之，在我们的研究组中，我们没有获得@GENE$ 基因参与@DISEASE$ 调节或 SNS 的确凿证据。", "label": "0"}
+{"id": "354", "sentence": "人类 T1663A GH1 基因多态性可能导致较低水平的 GH 和@GENE$，似乎与@DISEASE$ 风险降低有关。", "label": "0"}
+{"id": "355", "sentence": "总体而言，我们没有获得关于@GENE$ 基因参与精神分裂症@DISEASE$ 的确凿证据，尽管需要对更多受试者进行进一步研究以得出三核苷酸重复多态性是否与精神分裂症的发展相关的结论。", "label": "0"}
+{"id": "356", "sentence": "因此，@GENE$ 的遗传变异不太可能对@DISEASE$ 的易感性产生重大影响。", "label": "0"}
+{"id": "357", "sentence": "我们的研究结果表明，GCK 基因与中国@DISEASE$ 相关，GCK1/GCK2 @GENE$ 单倍型是 GDM 的保护因素。", "label": "0"}
+{"id": "358", "sentence": "这些发现支持遗传变异在@DISEASE$ 的 15q11-@GENE$ 中的 GABA 受体基因复合体中的作用。", "label": "0"}
+{"id": "359", "sentence": "我们得出结论，-30 beta-@GENE$ GCK 基因启动子变异与中年日裔美国男性的 β 细胞功能降低有关，并可能导致该人群异常葡萄糖@DISEASE$ 的高风险。", "label": "0"}
+{"id": "360", "sentence": "这些结果表明，@GENE$ 基因胰岛启动子区域的变体 (-30) 对患有 NGT、IGT 或 @DISEASE$ 的芬兰受试者的胰岛素分泌没有显着影响。", "label": "0"}
+{"id": "361", "sentence": "@GENE$-R 基因的 Gly40Ser 多态性与中枢@DISEASE$ 相关，与男性总体重无关。", "label": "0"}
+{"id": "362", "sentence": "总之，这些结果表明 GC*1F 和@GENE$ 等位基因与患@DISEASE$ 风险增加的个体的痰液分泌过多有关。", "label": "0"}
+{"id": "363", "sentence": "我们的结果表明，@GENE$ @DISEASE$ 的杂合性可能使德系犹太人易患帕金森病。", "label": "0"}
+{"id": "364", "sentence": "我们得出结论，@GENE$ 的 Nf 的第 218 位氨基酸取代的性质对于确定@DISEASE$ 患者表型的严重程度以及可能诱导偏斜 X 失活至关重要。", "label": "0"}
+{"id": "365", "sentence": "母体或胎儿的@GENE$ 酶活性不太可能影响副中肾管的发育，因为半乳糖血症受试者和他们的孩子都没有增加@DISEASE$ 的发生率。", "label": "0"}
+{"id": "366", "sentence": "我们得出结论，@GENE$ N314D 等位基因不会易患@DISEASE$。", "label": "0"}
+{"id": "367", "sentence": "我们得出结论，N314D @DISEASE$ 是一个常见的等位基因，可能导致 Duarte @GENE$ 生化表型，并且主要发生在白种人、非半乳糖血症人群中，患病率为 5.9%。", "label": "0"}
+{"id": "368", "sentence": "我们的数据表明@GENE$ 参与了日本人群中 NSCLP 的@DISEASE$。", "label": "0"}
+{"id": "369", "sentence": "总之，本研究表明，在 PTSD 患者群体中，@GENE$ 主要 (G1) 等位基因的杂合性比纯合性带来更高水平的躯体@DISEASE$、焦虑/失眠、社会功能障碍和抑郁。", "label": "0"}
+{"id": "370", "sentence": "@GENE$ 和 DRD4 基因的结果表明这两个基因可能不会在@DISEASE$ 的发展中发挥主要作用。", "label": "0"}
+{"id": "371", "sentence": "这些发现支持血清素转运蛋白和 GABA(A) alpha6 亚基在@DISEASE$ 相关的@GENE$ 中的作用。", "label": "0"}
+{"id": "372", "sentence": "这些结果表明，@GENE$ 基因中的 T1521C 多态性与特定的@DISEASE$ 特征以及荷尔蒙和血压对心理压力的反应显着减弱有关。", "label": "0"}
+{"id": "373", "sentence": "这些结果表明@GENE$ 基因可能赋予对@DISEASE$ 的易感性。", "label": "0"}
+{"id": "374", "sentence": "@GENE$ 患者基因型中 282-bp 等位基因的存在或@DISEASE$ 未显示影响发病年龄和总体临床严重程度，但被发现与躁狂发作多于抑郁发作相关病程。", "label": "0"}
+{"id": "375", "sentence": "这项研究甚至可以排除总样本中的小尺寸效应，并表明在西班牙人群中@GENE$ 多态性和@DISEASE$ 之间缺乏关联。", "label": "0"}
+{"id": "376", "sentence": "我们的研究结果表明，@GENE$ 基因也可能参与单相重度抑郁症（至少在女性患者中）的遗传 @DISEASE$，即使这些发现不支持 GABRA 3 的主导作用。", "label": "0"}
+{"id": "377", "sentence": "这些发现表明，@GENE$ 的遗传变异增加了俄罗斯人群中@DISEASE$ 的风险，并为 GABRA2 基因座的多态变异至少在欧洲血统人群中起重要作用的假设提供了额外的支持。", "label": "0"}
+{"id": "378", "sentence": "这些数据不支持我们的假设，即@GENE$ 基因的多态性可能赋予@DISEASE$ 易感性。", "label": "0"}
+{"id": "379", "sentence": "我们假设@GENE$ 基因可能不是@DISEASE$ 的易感基因，至少在中国人群中是这样。", "label": "0"}
+{"id": "380", "sentence": "我们在这些 G6PD 缺陷个体的 G6PD 核心启动子或 5' @GENE$ 中没有发现序列变异，这表明 @DISEASE$ 与 G6PD 基因座中的启动子突变无关。", "label": "0"}
+{"id": "381", "sentence": "我们得出结论，@GENE$ A- 杂合子女性可以免受所有形式的@DISEASE$ 疟疾的侵害，并且 TNFalpha(-238A) 等位基因可以预防临床疟疾。", "label": "0"}
+{"id": "382", "sentence": "我们的结果表明@DISEASE$ 可能与@GENE$ fyn 的 SNP T137346C 基因型相关，其中 C 是风险等位基因。", "label": "0"}
+{"id": "383", "sentence": "结果表明，他们都没有@DISEASE$，这表明@GENE$ 基因的遗传缺陷不太可能是典型 PD 的常见原因，至少在北美人群中是这样。", "label": "0"}
+{"id": "385", "sentence": "该分析未在 240 条分析的染色体中显示任何@DISEASE$，表明@GENE$ 编码区的突变很少与非综合征性 POF 相关。", "label": "0"}
+{"id": "386", "sentence": "我们的数据表明，@GENE$ 的变异可能在体重控制中具有@DISEASE$ 的作用，并且似乎与女性基础葡萄糖周转率和血浆甘油三酯水平的调节有关，但该基因对皮马印第安人的 2 型糖尿病。", "label": "0"}
+{"id": "387", "sentence": "我们得出结论，@GENE$ 与@DISEASE$ 和代谢恶化有关，但不会增加患 2 型糖尿病的风险。", "label": "0"}
+{"id": "388", "sentence": "我们的数据表明@GENE$ 是一个@DISEASE$ 但一致的肥胖和血脂异常候选基因。", "label": "0"}
+{"id": "389", "sentence": "这些数据表明，H475Y @GENE$ 等位基因的存在会损害膳食叶酸的肠道吸收，导致相对较低的@DISEASE$ 叶酸水平和随之而来的高同型半胱氨酸血症。", "label": "0"}
+{"id": "390", "sentence": "我们得出结论，@GENE$ 基因的基因型是 SSc 中有用的预后因素，有助于预测可能发展为@DISEASE$ 的个体。", "label": "0"}
+{"id": "391", "sentence": "这些发现支持调节@GENE$ 轴的基因在@DISEASE$ 的因果关系和抗抑郁药物的作用机制中发挥核心作用。", "label": "0"}
+{"id": "392", "sentence": "我们的结果支持这样的结论，即@GENE$ Arg(388) 等位基因代表了一个决定因素，它对健康个体无害，但易使@DISEASE$ 患者显着加速疾病进展。", "label": "0"}
+{"id": "393", "sentence": "@GENE$ Arg388 等位基因与前列腺癌发病率和临床@DISEASE$ 的增加相关，并导致永生化前列腺上皮细胞的细胞运动和侵袭性发生变化，这与促进转移一致。", "label": "0"}
+{"id": "394", "sentence": "我们得出结论，导致颅缝早闭的@GENE$ 突变范围比以前认识到的要广，但 IgIIIa/IIIc 区域代表了真正的@DISEASE$ 热点。", "label": "0"}
+{"id": "395", "sentence": "纤维蛋白原基因启动子的 G-455A 多态性和@GENE$ 基因启动子的十聚体插入或@DISEASE$ 多态性不太可能是芬兰东部受试者先兆子痫的主要遗传易感因素。", "label": "0"}
+{"id": "396", "sentence": "总之，β-纤维蛋白原 -455 G/A、@GENE$ IIIa PlA1/A2、PAI-1 4G/5G、因子 V Leiden 1691 G/A、TNFalpha -238 G/A、TNFalpha - 之间没有关联308 G/A、IL-1alpha -889 C/T、IL-1beta -511 C/T、MTHFR 677 C/T 和 eNOS 4 b/a 基因多态性与 PTCA 后 @DISEASE$ 的风险以及复发重复 PTCA 后的再狭窄。", "label": "0"}
+{"id": "397", "sentence": "虽然应谨慎解释结果，因为 -455A 等位基因的频率很少见，但β-纤维蛋白原基因的 -455A 等位基因似乎与@GENE$ 或@DISEASE$ 的风险增加无关。", "label": "0"}
+{"id": "398", "sentence": "β 纤维蛋白原基因 -455G/A 多态性与血浆纤维蛋白原水平升高相关，可能是@GENE$ 的@DISEASE$ 的重要危险因素。", "label": "0"}
+{"id": "399", "sentence": "本研究表明，β 纤维蛋白原基因中的 Bgl @GENE$ 基因多态性和 -455G/A 多态性都不是患有 2 型糖尿病的斯洛文尼亚人群（高加索人）@DISEASE$ 的遗传标记。", "label": "0"}
+{"id": "400", "sentence": "血浆纤维蛋白原表达受β-纤维蛋白原基因-455A/G多态性影响，@GENE$等位基因可能是中国男性@DISEASE$的危险因素。", "label": "0"}
+{"id": "401", "sentence": "@GENE$ 和精神分裂症之间的适度关联表明，该基因和 DISC1 介导的分子通路可能在精神分裂症的发展中@DISEASE$，而 FEZ1 仅影响一小部分日本精神分裂症患者。", "label": "0"}
+{"id": "402", "sentence": "携带 FcgammaRIIA 的 R 等位基因的 @GENE$ 患者患慢性铜绿假单胞菌 @DISEASE$ 的风险更高，这一观察表明 FcgammaRII 位点的遗传变异导致了这种感染易感性。", "label": "0"}
+{"id": "403", "sentence": "这项研究表明，FcgammaR @GENE$ a-131 是导致中国南方汉族人群发生@DISEASE$ 的主要因素。", "label": "0"}
+{"id": "404", "sentence": "我们得出结论，Fcgamma 受体多态性既不影响@GENE$ 的易感性也不影响@DISEASE$ 的临床。", "label": "0"}
+{"id": "405", "sentence": "因此，我们得出结论，@GENE$-131H/R 和 Fc gamma RIIIB-NA1/NA2 多态性与泰国@DISEASE$ 的关联不是由 Fc gamma RIIIA-176F/V 引起的 LD。", "label": "0"}
+{"id": "406", "sentence": "我们得出结论，低亲和力 Fcgamma 受体的多态性与@GENE$ 疾病中的@DISEASE$ 无关。", "label": "0"}
+{"id": "407", "sentence": "@GENE$-R/R131 基因型可能是中国汉族人群对严重@DISEASE$ 易感性增加的原因之一。", "label": "0"}
+{"id": "408", "sentence": "本研究表明，IgG2 结合@GENE$-His/His131 基因型与@DISEASE$ 阳性女性对 PM 的易感性增强有关，但与 HIV 阴性女性无关。", "label": "0"}
+{"id": "409", "sentence": "这项研究提供了婴儿@GENE$ His/His131 基因型与围产期 HIV-1 @DISEASE$ 易感性相关的第一个证据，并进一步表明 Fc gamma RIIa His131 基因对胎儿的影响存在剂量反应关系。传播。", "label": "0"}
+{"id": "410", "sentence": "这是@GENE$ 多态性和严重的@DISEASE$ 之间关联的第一个证据，并提供了平衡来自同一基因位点的不同传染病的选择压力的示例。", "label": "0"}
+{"id": "411", "sentence": "尽管尚未显示因果关系，但这些数据与@GENE$ 基因型在与@DISEASE$ 患者的大动脉硬化和脉压升高相关的心血管风险中的重要作用一致。", "label": "0"}
+{"id": "412", "sentence": "我们没有发现@DISEASE$ 和@GENE$ 多态性和单倍型与艾滋病进展有任何统计学上的显着关联。", "label": "0"}
+{"id": "413", "sentence": "这些结果与我们在@DISEASE$ 中的初步发现一致，进一步支持了@GENE$ 和 FASL 触发的细胞凋亡途径在人类癌变中起重要作用的假设。", "label": "0"}
+{"id": "414", "sentence": "总体而言，我们的数据表明@DISEASE$ 和@GENE$ 多态性及其单倍型不太可能与成功的人类长寿相关。", "label": "0"}
+{"id": "415", "sentence": "总之，我们的数据并未表明常见的@GENE$ 遗传变异对桥本氏甲状腺炎或格雷夫斯氏病的@DISEASE$ 有显着贡献。", "label": "0"}
+{"id": "416", "sentence": "@DISEASE$-670 多态性与中国患者的@GENE$ 无关。", "label": "0"}
+{"id": "417", "sentence": "@DISEASE$ 基因中的遗传变异与多胎妊娠中@GENE$ 的发生率增加有关。", "label": "0"}
+{"id": "418", "sentence": "我们的结果并未证实@DISEASE$ 基因启动子中的@GENE$ 基因型可能参与宫颈瘤形成的假设。", "label": "0"}
+{"id": "419", "sentence": "我们的数据表明，@DISEASE$ 启动子 -670 多态性与 SLE 中抗@GENE$ 抗体的发展有关。", "label": "0"}
+{"id": "420", "sentence": "这些发现提供的证据表明，@GENE$ 和 PPARgamma 共同作用影响了影响@DISEASE$ 和身体成分的生物学途径，说明了研究基因联合效应在确定复杂疾病易感性方面的重要性。", "label": "0"}
+{"id": "421", "sentence": "@GENE$ A54T 错义@DISEASE$ 可能有助于餐后状态下 HDL 的 TG 富集，进而可能改变动脉粥样硬化性血管疾病的风险。", "label": "0"}
+{"id": "422", "sentence": "因此，这些结果表明，@GENE$ 多态性对 TG、LDL-C 和体重指数的影响与非糖尿病日裔美国人的性别差异和@DISEASE$ 相关。", "label": "0"}
+{"id": "423", "sentence": "这些结果表明@GENE$ Thr54 等位基因可能对一般白人人群中的胰岛素抵抗综合征有@DISEASE$ 贡献。", "label": "0"}
+{"id": "424", "sentence": "这些结果表明@GENE$ 385 A/A 错义多态性作为@DISEASE$/肥胖中的内源性大麻素危险因素的作用，并可能提供间接证据支持超重障碍中的大麻素拮抗剂治疗策略。", "label": "0"}
+{"id": "426", "sentence": "总之，FXIII Val34Leu 的@GENE$ 对静脉血栓栓塞风险的影响不大，这表明在莱顿因子 V 携带者中筛查这种@DISEASE$ 是不合理的。", "label": "0"}
+{"id": "427", "sentence": "4G/4G-@GENE$ 基因型可能是 ACI 的保护因素，而因子 V 点@DISEASE$ (1691G-A) 和因子 VII Arg/Gln353 基因多态性尚未证明是 ACI 的危险因素。", "label": "0"}
+{"id": "428", "sentence": "结果表明，COC 的使用与@DISEASE$ 的发病之间可能存在关联，但是 G1691-->因子 V 基因中的 A、@GENE$ 基因中的 G20210-->A 突变和 I/D 多态性ACE 基因似乎对这种关联没有贡献。", "label": "0"}
+{"id": "429", "sentence": "我们得出结论，@GENE$ 和 PT-20210A 是@DISEASE$ 以及 Hcy 水平的风险因素，但 MTHFR 和 PAI-1 多态性似乎与我们国家的 VT 无关。", "label": "0"}
+{"id": "430", "sentence": "这些数据表明@GENE$ 与产科@DISEASE$ 风险增加有关，但β-纤维蛋白原、PGM 和 MTHFR 的 -455A 等位基因似乎没有牵连。", "label": "0"}
+{"id": "431", "sentence": "目前的数据表明，对可遗传的@DISEASE$ 进行测试对于确定 aPL 受试者患@GENE$ 的风险增加非常重要。", "label": "0"}
+{"id": "432", "sentence": "中国缺血性卒中患者和正常受试者中不存在因子@GENE$ 基因 3'-UT G20210A @DISEASE$ 等位基因；它的突变可能不是中国人血栓形成的主要危险因素。", "label": "0"}
+{"id": "433", "sentence": "@GENE$ C807T 的单核苷酸多态性似乎在突发性@DISEASE$ 恢复中发挥着预后因素的作用。", "label": "0"}
+{"id": "434", "sentence": "@GENE$ 4G 或 FXIII 34Leu 多态性的纯合性以及复合携带者状态与@DISEASE$ 损失相关。", "label": "0"}
+{"id": "435", "sentence": "FXIII 基因氨基酸多态性的@GENE$ 等位基因与@DISEASE$ 风险降低相关，这种保护关联在吸烟者中似乎更为明显。", "label": "0"}
+{"id": "436", "sentence": "我们的结果表明，FXIII Leu 等位基因对@GENE$ 中@DISEASE$ 的发展没有保护作用。", "label": "0"}
+{"id": "437", "sentence": "我们发现@GENE$-与西班牙人群中 F12、46C-->T 多态性的 T 等位基因纯合性相关的急性@DISEASE$ 风险高出一倍。", "label": "0"}
+{"id": "438", "sentence": "ERbeta 基因中的 AluI 多态性与日本人群中 @GENE$ @DISEASE$ 阶段的风险增加有关。", "label": "0"}
+{"id": "439", "sentence": "ERalpha、ERbeta 和@GENE$ 编码基因的多态性与白种人中子宫@DISEASE$ 的发生无关。", "label": "0"}
+{"id": "440", "sentence": "因此，这些数据表明，@GENE$ 基因型可能调节 BMD 或@DISEASE$ 比率与男性雌激素水平之间的关系，并且具有 X 或 P 等位基因的男性骨量可能更容易受到雌激素缺乏的影响（相反，从雌激素充足中获益最多）比具有 xx 或 pp 基因型的男性。", "label": "0"}
+{"id": "441", "sentence": "ER 和@GENE$ 基因可能以独特的方式促成@DISEASE$：雌激素敏感性影响绝经后早期的严重程度，而维生素 D 在雌激素损失的作用较弱的老年时期起着重要作用。", "label": "0"}
+{"id": "442", "sentence": "结果表明，所研究的@GENE$ 基因的二核苷酸重复多态性可能有助于@DISEASE$ 的特定成分。", "label": "0"}
+{"id": "443", "sentence": "@GENE$基因RFLPs与中医@DISEASE$辨证分型有关。", "label": "0"}
+{"id": "444", "sentence": "雌激素受体α多态性，而不是@GENE$-肾上腺素能受体基因，可能与@DISEASE$的风险相关。", "label": "0"}
+{"id": "445", "sentence": "我们的研究结果表明，@GENE$ 和 ERCC2 SNP 可能是@DISEASE$ 形成的标志物，而细胞周期蛋白 D1 和 p16 SNP 可能是对受辐射和未受辐射人群发生脑膜瘤的风险具有相反影响的基因标志物。", "label": "0"}
+{"id": "446", "sentence": "这些结果表明，吸烟且具有 @GENE$ 密码子 312 Asp/Asp 基因型的个体可能具有更大的 p53 突变风险，尤其是如果与可能导致 @DISEASE$ 的其他多态性相结合。", "label": "0"}
+{"id": "447", "sentence": "调整表现状态和治疗方案的@GENE$，携带至少一个 ERCC1 8092A 等位基因与接受铂类治疗的@DISEASE$ 患者的 3 级或 4 级胃肠道毒性增加 >2 倍有关。", "label": "0"}
+{"id": "448", "sentence": "总之，@GENE$ C8092A 多态性可能是接受铂类化疗的晚期@DISEASE$ 患者 OS 的有用预测指标。", "label": "0"}
+{"id": "449", "sentence": "因此，我们建议 ERCC1 密码子 118 中的@GENE$ 基因型是预测接受顺铂联合化疗的@DISEASE$ 患者更好生存的替代标记。", "label": "0"}
+{"id": "450", "sentence": "总之，我们的结果支持@GENE$ 密码子 594 和 HER2 密码子 655 多态性与@DISEASE$ 风险增加无关的观点。", "label": "0"}
+{"id": "451", "sentence": "这些结果表明，sEH 和 EDHF 在 2 型糖尿病中发现的@DISEASE$ 和@GENE$ 耐药性中发挥了重要作用。", "label": "0"}
+{"id": "453", "sentence": "我们的数据显示，@GENE$ 基因中的 K1019X @DISEASE$ 在 AA 和 EA 之间的频率不同，与具有阳性家族史的 AA 男性患 PC 的风险增加相关，并且可能是前列腺癌的重要遗传风险因素在机管局。", "label": "0"}
+{"id": "454", "sentence": "在健康的正常血糖芬兰受试者中，@GENE$ 基因的 K121Q 多态性与 @DISEASE$ 相关，但与胰岛素分泌受损或血脂异常无关。", "label": "0"}
+{"id": "455", "sentence": "结果表明，西班牙人群中的 K121Q @GENE$ 多态性对 @DISEASE$ 没有显着影响。", "label": "0"}
+{"id": "456", "sentence": "我们得出结论，@GENE$ Q 变体的携带者在 1 型糖尿病早期患上@DISEASE$ 的风险增加。", "label": "0"}
+{"id": "457", "sentence": "我们得出结论，@GENE$ 基因的 K121Q 多态性和出生长度之间的相互作用会影响 @DISEASE$ 并增加成年后对 2 型糖尿病和高血压的易感性。", "label": "0"}
+{"id": "458", "sentence": "总之，我们已经确定了@GENE$ 过度表达的可能分子机制，该机制会增加@DISEASE$ 相关异常的风险。", "label": "0"}
+{"id": "459", "sentence": "总之，在卡尔加里地区接受根治性前列腺切除术的男性中，HPC2 基因变异 Leu217 和 Thr541 与 @DISEASE$ 和 @GENE$ 风险增加有关。", "label": "0"}
+{"id": "460", "sentence": "@GENE$ 突变的@DISEASE$ 以及病例和对照中 ELAC2 多态性与前列腺癌之间缺乏关联使我们得出结论，ELAC2 对多巴哥的非洲加勒比男性前列腺癌患病率升高没有显着贡献。", "label": "0"}
+{"id": "461", "sentence": "因此，@GENE$ 和 RNASEL 可能在前列腺@DISEASE$ 和严重程度中发挥作用。", "label": "0"}
+{"id": "462", "sentence": "没有证据表明@GENE$ 多态性与前列腺癌或@DISEASE$ 水平有关。", "label": "0"}
+{"id": "463", "sentence": "这项研究表明，上皮特异性@GENE$ 和 ETS-3 基因不太可能包含对我们人群中的@DISEASE$ 易感性有重大影响的多态位点。", "label": "0"}
+{"id": "464", "sentence": "@GENE$ @DISEASE$ 和 EGFR 扩增分别是间变性星形细胞瘤患者和老年多形性胶质母细胞瘤患者的重要预后因素。", "label": "0"}
+{"id": "465", "sentence": "这些结果表明@DISEASE$ 与@GENE$ 基因的 AluI 多态性无关，EGF 基因多态性在精神分裂症和肺癌患者之间存在差异。", "label": "0"}
+{"id": "466", "sentence": "我们的研究结果表明，@GENE$的A-G多态性不仅参与胃癌的发生，还参与胃癌的恶性@DISEASE$。", "label": "0"}
+{"id": "467", "sentence": "总之，在我们的小组中，@GENE$ +61 多态性不是 CMM 易感性的危险因素，但这种多态性可能在@DISEASE$ 中起作用。", "label": "0"}
+{"id": "468", "sentence": "因此，我们的研究表明@GENE$ 可能参与基本的@DISEASE$。", "label": "0"}
+{"id": "469", "sentence": "尽管@GENE$ G-N 单倍型本身的功能相关性仍不清楚，但数据表明 EDN1 基因座的遗传变异对@DISEASE$ 过滤有显着影响，但一般对阿联酋没有影响", "label": "0"}
+{"id": "470", "sentence": "我们的@DISEASE$ 表明 G5665T @GENE$ 多态性和 SBP 变化之间存在性别特异性关系，以响应厄贝沙坦或阿替洛尔的抗高血压治疗，表明内皮素途径是药物高血压作用中的常见机制。", "label": "0"}
+{"id": "471", "sentence": "我们所有的结果表明，在结构性@DISEASE$、严重左心室功能不全和恶性室性心律失常的患者中存在@GENE$ 基因型 (++) 会增加这些患者在这些心律失常期间发生血流动力学崩溃的风险。", "label": "0"}
+{"id": "472", "sentence": "因此，@GENE$、血管紧张素原和 ET-1 基因中检测到的多态性可能参与@DISEASE$ 疾病的发病机制。", "label": "0"}
+{"id": "473", "sentence": "我们所有的结果都表明，结构性@DISEASE$、严重左心室功能不全和恶性室性心律失常患者中 (++)@GENE$ 基因型的存在使这些患者在心律失常发作期间发生血流动力学崩溃的风险更高。", "label": "0"}
+{"id": "474", "sentence": "因此，我们根据病例对照分析报告，相同的@GENE$ 多态性参与了对突尼斯地方性 PF 的易感性，因此表明常见的遗传因素控制@DISEASE$ 对桥粒芯糖蛋白的破坏1 在不同的流行病学和环境情况下。", "label": "0"}
+{"id": "475", "sentence": "我们得出结论，DRP-2 *2236 C 等位基因可能是@GENE$ DRP-2 或附近基因中的另一个多态性，它可能影响对@DISEASE$ 的易感性。", "label": "0"}
+{"id": "476", "sentence": "我们的结果表明，DRP-2 基因 3'@GENE$ 中的 *2236C 等位基因，或与该等位基因连锁不平衡的未知@DISEASE$，可能会降低对精神分裂症的易感性，尤其是偏执型亚型。", "label": "0"}
+{"id": "477", "sentence": "本研究没有提供任何证据证明@GENE$ 基因对@DISEASE$ 易感性的贡献。", "label": "0"}
+{"id": "478", "sentence": "这些结果表明，DRP-2 基因 3'@GENE$ 中的 *2236C 等位基因，或与该等位基因连锁不平衡的未知@DISEASE$，可能会降低对精神分裂症，尤其是偏执型亚型的易感性。", "label": "0"}
+{"id": "480", "sentence": "在 F-ITD 的@DISEASE$ 中，没有发现@GENE$、DRD5、HLA-DRB 或多态性参与同型半胱氨酸通路的证据。", "label": "0"}
+{"id": "481", "sentence": "在比较 DRD2 TaqI 和 DRD4 基因外显子 III VNTR 多态性的@GENE$ 依赖和对照病例时，基因型或等位基因频率没有显着差异，这表明这两种多态性在我们的 MAP @DISEASE$ 中没有发挥主要作用中国男性样本。", "label": "0"}
+{"id": "483", "sentence": "使用这些方法，在我们的人群中，没有发现 -616 C/G SNP 与 Cloninger 气质和性格清单 (@GENE$) 的@DISEASE$ 因素之间存在关联。", "label": "0"}
+{"id": "484", "sentence": "在患有 ADHD 的儿童中，拥有@GENE$ 7 重复等位基因似乎与神经心理任务的不准确、冲动的反应方式有关，而这种方式不能用 ADHD @DISEASE$ 严重程度来解释。", "label": "0"}
+{"id": "485", "sentence": "结果表明，与对照饮料相比，@GENE$ L 参与者在@DISEASE$ 酒精后表现出更高的渴望。", "label": "0"}
+{"id": "486", "sentence": "@GENE$ 基因对于卡罗林斯卡人格量表测量的不同@DISEASE$ 维度可能并不重要。", "label": "0"}
+{"id": "487", "sentence": "总体而言，我们的结果表明 HTR2A、@GENE$、DRD3 和 GABA(A)gamma2 基因不太可能是该人群中@DISEASE$ 的主要遗传风险因素，但鼻吸入和 DRD2 启动子之间可能存在关联除外- 141DeltaC 多态性。", "label": "0"}
+{"id": "488", "sentence": "我们得出结论，调查的@GENE$ 多态性对调查人群中的@DISEASE$ 没有重大影响。", "label": "0"}
+{"id": "489", "sentence": "我们没有发现任何证据表明@GENE$ 基因可能使中国精神分裂症患者对@DISEASE$ 的发展具有易感性。", "label": "0"}
+{"id": "490", "sentence": "我们的结果可能表明@DISEASE$ 与@GENE$ 纯合性相关 (P=0.056)。", "label": "0"}
+{"id": "491", "sentence": "这些数据表明，@GENE$ Ser9Gly 多态性或处于连锁不平衡状态的另一种遗传变异可能会影响对利培酮的负面@DISEASE$ 反应和社会功能。", "label": "0"}
+{"id": "492", "sentence": "这些结果并未提供证据表明@GENE$ 基因参与@DISEASE$ 压力水平或 1 型糖尿病患者糖尿病肾病的发病机制。", "label": "0"}
+{"id": "493", "sentence": "我们的研究结果表明，@GENE$ 基因的变异可能涉及冲动的调节以及与暴力行为相关的@DISEASE$ 的一些精神病理学方面。", "label": "0"}
+{"id": "494", "sentence": "这些结果与@GENE$ 多巴胺受体的遗传变异对@DISEASE$ 的易感性没有作用是一致的。", "label": "0"}
+{"id": "495", "sentence": "总之，我们认为@GENE$基因的MscI多态性位点的Gly/Gly纯合子可能引起多巴胺D3受体功能的一些改变，并可能参与TD的@DISEASE$。", "label": "0"}
+{"id": "496", "sentence": "我们得出结论，这种@GENE$ 多态性不是我们样本中@DISEASE$ 的风险因素。", "label": "0"}
+{"id": "497", "sentence": "尽管@GENE$ TaqI A 多态性仍有可能在修饰@DISEASE$ 的表型中发挥一定作用，但这些结果表明 A1 等位基因和纯合 A1 基因型均与酒精中毒无关。", "label": "0"}
+{"id": "498", "sentence": "我们的结果通过早期持续关注和信息处理为@GENE$ 和@DISEASE$ 之间可能存在的发展联系提供了证据。", "label": "0"}
+{"id": "499", "sentence": "我们的研究结果表明，@GENE$ -141C @DISEASE$ 等位基因和 5-HTTLPR S 等位基因是墨西哥裔美国人酗酒的遗传风险因素，吸烟调节遗传风险因素与酗酒之间的关联。", "label": "0"}
+{"id": "500", "sentence": "这些发现表明@GENE$ TaqIA 多态性可能与 PD 中发生运动@DISEASE$ 的风险增加有关。", "label": "0"}
+{"id": "501", "sentence": "在俄罗斯人和鞑靼人中，没有发现 TaqI A @GENE$ 多态性和 @DISEASE$ 之间存在关联。", "label": "0"}
+{"id": "502", "sentence": "在这个@DISEASE$ 的@GENE$ 中，A2A2 DRD2 基因型似乎与精神分裂症的慢性化有关。", "label": "0"}
+{"id": "503", "sentence": "我们得出结论，@GENE$ 等位基因与该样本中的@DISEASE$ 无关，并且 DRD2 基因座的遗传变异不太可能是导致该疾病风险的重要因素。", "label": "0"}
+{"id": "504", "sentence": "我们得出结论，我们的数据不支持 DRD2 的@GENE$ 等位基因和@DISEASE$ 之间的等位基因关联。", "label": "0"}
+{"id": "505", "sentence": "这一结果表明@GENE$ 中的种系突变不太可能导致对@DISEASE$ 的遗传易感性。", "label": "0"}
+{"id": "506", "sentence": "具有@GENE$、4 bp DEL、NT3198 @DISEASE$ 的个体骨密度显着增加表明这种改变影响软骨内和膜内骨形成，并表明 DLX3 基因在骨形成和/或四肢的稳态中很重要骨骼。", "label": "0"}
+{"id": "507", "sentence": "DLST 基因的 AT/@GENE$ 基因型与@DISEASE$ 风险增加有关。", "label": "0"}
+{"id": "508", "sentence": "DLD 基因型在赋予@DISEASE$ 风险方面似乎独立于@GENE$ 运作。", "label": "0"}
+{"id": "509", "sentence": "这些数据支持这样一种观点，即这些明显不同的@DISEASE$ 至少具有部分趋同的病因，并且@GENE$ 基因座的变异使个体易患各种精神疾病。", "label": "0"}
+{"id": "510", "sentence": "DII-ORFa-Gly3Asp 和 DII-Thr92Ala 多态性不能解释接受@DISEASE$ 治疗的患者在幸福感、神经认知功能或对 T4/@GENE$ 联合疗法的评价方面的差异。", "label": "0"}
+{"id": "511", "sentence": "这些结果表明，编码 hBD-1 的@GENE$ 基因的遗传变异可能在介导和/或促进对@DISEASE$ 的易感性方面发挥重要作用。", "label": "0"}
+{"id": "512", "sentence": "所检查的@GENE$ SNP 不涉及对青少年@DISEASE$ 的易感性。", "label": "0"}
+{"id": "513", "sentence": "因此，我们的结果不支持 @GENE$ 基因中的 1-bp 或 4-bp @DISEASE$ 参与情感障碍的病因学。", "label": "0"}
+{"id": "514", "sentence": "@GENE$ 基因的 179 等位基因变体与患有白蛋白尿并接受抗高血压治疗的 1 型糖尿病患者中较慢的 DN @DISEASE$ 有关。", "label": "0"}
+{"id": "515", "sentence": "在选定的高加索人群中，DAZL SNP 386 完全不存在，SNP 260 与@GENE$ 无关，因此不代表@DISEASE$ 基因诊断的分子标记。", "label": "0"}
+{"id": "516", "sentence": "这些结果表明，@GENE$ 基因的特定变体可能与负责成人 BA 的机制相关，并有助于气道@DISEASE$ 和重塑。", "label": "0"}
+{"id": "517", "sentence": "在基于跨该基因座的连锁不平衡@DISEASE$ 信息的单倍型分析中，我们证明了精神分裂症与@GENE$ 单倍型之间存在高度显着的关联 (P = 2.0173 x 10(-21))，因此提供了独立统计支持 DAAO 基因与精神分裂症的关联，并表明 DAAO 基因可能在中国汉族精神分裂症的病因学中发挥重要作用。", "label": "0"}
+{"id": "518", "sentence": "总之，我们提供的证据表明，胆固醇分解代谢中限速酶 @GENE$ 中 A-278C 多态性的 CC 变体增加了动脉粥样硬化的 @DISEASE$，并可能增加新临床事件的风险。", "label": "0"}
+{"id": "519", "sentence": "与@GENE$ A-203C 的 CC 基因型相关的近端@DISEASE$ 风险降低，这可能降低了将胆固醇转化为胆汁酸的酶的活性，这是胆汁酸在结直肠癌发生中作用的新证据。", "label": "0"}
+{"id": "520", "sentence": "在这里，我们报告 APOE 启动子、ACE1 和 CYP46 基因内的多态性不是@DISEASE$ 的危险因素，并且与@GENE$ 的实质或血管积累无关。", "label": "0"}
+{"id": "521", "sentence": "我们的结果提供了对先前发现的重要独立复制，支持@GENE$ 序列变异的存在，这些变异有助于 beta-@DISEASE$ 代谢的变异性。", "label": "0"}
+{"id": "522", "sentence": "我们的结果表明内含子 2 CYP46 @GENE$ 基因型可能易患@DISEASE$，并且这种关联独立于载脂蛋白 E 基因型。", "label": "0"}
+{"id": "523", "sentence": "这些发现提供了直接证据，表明@GENE$ 和 ApoE 多态性协同增加 AD 发展的风险，并影响@DISEASE$ 的发生率。", "label": "0"}
+{"id": "524", "sentence": "@GENE$ 影响大脑 β-@DISEASE$ 负荷、β-淀粉样肽和磷酸化 tau 的脑脊液水平，以及迟发性散发性 AD 的遗传风险。", "label": "0"}
+{"id": "525", "sentence": "尽管越来越多的证据表明胆固醇代谢与@DISEASE$ 风险和@GENE$ 生成有关，但我们的数据并不支持 CYP46 内含子 2 多态性与 AD 风险或神经病理学之间存在稳健的遗传关系。", "label": "0"}
+{"id": "526", "sentence": "@GENE$ 和 CYP3A43 与前列腺癌相关，不处于连锁平衡，并且都参与睾酮代谢的观察表明，CYP3A4*1B 和 CYP3A43*3 可能影响患前列腺癌和@DISEASE$ 的概率严重程度。", "label": "0"}
+{"id": "527", "sentence": "@GENE$*6 等位基因在高加索人群中很少见，并且未推断出该等位基因变体与@DISEASE$ 之间存在关联。", "label": "0"}
+{"id": "528", "sentence": "@GENE$ 基因的多态性变体可能导致 HCV 感染受试者的肝病 @DISEASE$ 和 HCC 风险。", "label": "0"}
+{"id": "529", "sentence": "总之，@GENE$ 2D6 和 2E1、PXR 和 MDR1 的遗传多态性似乎在@DISEASE$ 的发病中没有发挥作用。", "label": "0"}
+{"id": "530", "sentence": "因此，在健康对照中未观察到@GENE$ RsaI、CYP2E1 DraI、ADH1C、NQO1 多态性和酒精@DISEASE$ 之间存在显着关联。", "label": "0"}
+{"id": "531", "sentence": "@GENE$ C2等位基因是结直肠癌的易感因子，尤其是@DISEASE$，易感基因型与盐渍食物之间存在明显的基因-环境相互作用。", "label": "0"}
+{"id": "532", "sentence": "CYP2E1@GENE$/c1基因型是中国人@DISEASE$发展的易感因素，易感基因型与吸烟之间存在明显的基因-环境相互作用。", "label": "0"}
+{"id": "533", "sentence": "该结果表明对@DISEASE$ 的易感性可能与 P450IIE1 基因的 RsaI 和@GENE$ 多态性有关。", "label": "0"}
