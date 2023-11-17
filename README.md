@@ -12,5 +12,5 @@ Multilingual Biomedical PLM-KBioXLM
 
 ## Instructions for use
 
-1. Firstly, in pre training: ① XLMR+Pre training: Process first_ Data, pre train after obtaining data; ② KBioXLM follows the same steps as XLMR+Pretraining
+1. Firstly, in pre-training: ① XLMR+Pre training: Process first_ Data, pre train after obtaining data; ② KBioXLM follows the same steps as XLMR+Pretraining
 2. After obtaining the KBioXLM model, call the model in downstream to verify its effectiveness
