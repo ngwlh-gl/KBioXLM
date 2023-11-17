@@ -3,6 +3,10 @@
 
 Multilingual Biomedical PLM-KBioXLM
 
+## model weights link
+
+https://pan.baidu.com/s/1v43GS7tNRpD3kvpbd0QonA?pwd=pc7r 
+
 ## Installation Tutorial
 
 1. Torch
