@@ -1,6 +1,6 @@
 # 1.utils_data 
 
-## data link: https://pan.baidu.com/s/1RKgoDwW35hlWHQCn_arxDA?pwd=z65t 
+## [data link](https://pan.baidu.com/s/1RKgoDwW35hlWHQCn_arxDA?pwd=z65t)
 
 ## folder description
 ### cui2sty.json：Medical entities and their labels
