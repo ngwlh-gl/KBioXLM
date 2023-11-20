@@ -376,16 +376,16 @@ def main():
         revision=model_args.model_revision,
         use_auth_token=True if model_args.use_auth_token else None,
     )
-    if model_args.use_our_pretrain:
-        checkpoint = torch.load(model_args.model_name_or_path+'/pytorch_model.bin', map_location='cpu')
-        new_state_dict=OrderedDict()
-        for k,v in checkpoint.items():
-            if k.startswith('model.roberta.'):
-                k=k.replace('model.roberta.','roberta.')
-            new_state_dict[k]=v
-        msg = model.load_state_dict(new_state_dict, strict=False)
-        logger.info(msg)
-        print(msg)
+    # if model_args.use_our_pretrain:
+    #     checkpoint = torch.load(model_args.model_name_or_path+'/pytorch_model.bin', map_location='cpu')
+    #     new_state_dict=OrderedDict()
+    #     for k,v in checkpoint.items():
+    #         if k.startswith('model.roberta.'):
+    #             k=k.replace('model.roberta.','roberta.')
+    #         new_state_dict[k]=v
+    #     msg = model.load_state_dict(new_state_dict, strict=False)
+    #     logger.info(msg)
+    #     print(msg)
     if not training_args.do_train and (training_args.do_eval or training_args.do_predict):
         model = model_class.from_pretrained(
         training_args.output_dir,
