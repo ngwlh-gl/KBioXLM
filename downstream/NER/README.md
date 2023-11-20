@@ -7,12 +7,11 @@ do
 python main.py \
     --do_train \
     --data_folder ./datasets/ADE/eng_to_zh \
-    --pretrained_dir ../KBioXLM_model \
+    --pretrained_dir ngwlh/KBioXLM \
     --result_filepath ./results/KBioXLM_model-$SEED-$LR.json \
     --max_position_embeddings 512 \
-    --output_dir ./ckpts/KBioXLM_model-$SEED-$LR \
+    --output_dir ./ckpts/KBioXLM-$SEED-$LR \
     --train_bs 16 \
-    --reset_weights \
     --type roberta \
     --do_lower_case \
     --lr $LR \
