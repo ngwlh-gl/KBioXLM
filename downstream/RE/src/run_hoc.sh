@@ -8,13 +8,13 @@ for MODEL in KBioXLM_model
 do
 for BS in 16
 do
-export MODEL_PATH=../../models/$MODEL
+export MODEL_PATH=ngwlh/KBioXLM
 
 # task=HoC_hf_zh_en
 # datadir=../data/seqcls/$task
 # outdir=runs/$task/$MODEL-$LR-$EPOCH-$SEED-$BS
 # mkdir -p $outdir
-# python3 -u seqcls/run_seqcls.py --model_name_or_path $MODEL_PATH --use_our_pretrain \
+# python3 -u seqcls/run_seqcls.py --model_name_or_path $MODEL_PATH \
 #   --train_file $datadir/train.json --validation_file $datadir/dev.json --test_file $datadir/test_en.json \
 #   --do_train --do_eval --do_predict --metric_name hoc \
 #   --per_device_train_batch_size $BS --gradient_accumulation_steps 1 --fp16 \
@@ -27,7 +27,7 @@ task=HoC_hf_en_zh
 datadir=../data/seqcls/$task
 outdir=runs/$task/$MODEL-$LR-$EPOCH-$SEED-$BS
 mkdir -p $outdir
-python3 -u seqcls/run_seqcls.py --model_name_or_path $MODEL_PATH --use_our_pretrain \
+python3 -u seqcls/run_seqcls.py --model_name_or_path $MODEL_PATH \
   --train_file $datadir/train.json --validation_file $datadir/dev.json --test_file $datadir/test_zh.json \
   --do_train --do_eval --do_predict --metric_name hoc \
   --per_device_train_batch_size $BS --gradient_accumulation_steps 1 --fp16 \
