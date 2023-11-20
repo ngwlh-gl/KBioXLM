@@ -4,8 +4,7 @@ export CUDA_VISIBLE_DEVICES=6
 export LR=3e-5
 export SEED=42
 
-for MODEL in KBioXLM_model
-do
+export MODEL=ngwlh/KBioXLM
 
 for TASK in ade
 do
@@ -16,7 +15,7 @@ do
 python main.py \
     --do_train \
     --data_folder ./datasets/$TASK/$DIRECTION \
-    --pretrained_dir ../models/$MODEL \
+    --pretrained_dir $MODEL \
     --result_filepath ./results/$DIRECTION/$MODEL-$SEED-$LR-$TASK.json \
     --max_position_embeddings 512 \
     --output_dir ./ckpts/$DIRECTION/$MODEL-$SEED-$LR-$TASK \
@@ -30,5 +29,5 @@ python main.py \
 
 done
 done
-done
+
 
