@@ -21,7 +21,6 @@ python main.py \
     --max_position_embeddings 512 \
     --output_dir ./ckpts/$DIRECTION/$MODEL-$SEED-$LR-$TASK \
     --train_bs 16 \
-    --reset_weights \
     --type roberta \
     --do_lower_case \
     --lr $LR \
