@@ -4,8 +4,7 @@ export CUDA_VISIBLE_DEVICES=7
 export LR=3e-5
 export SEED=42
 
-for MODEL in KBioXLM_model
-do
+export MODEL=ngwlh/KBioXLM
 
 for TASK in cdr
 do
@@ -30,5 +29,5 @@ python main.py \
 
 done
 done
-done
+
 
