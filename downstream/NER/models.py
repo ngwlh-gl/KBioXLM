@@ -72,16 +72,16 @@ class TransformerEncoder(torch.nn.Module):
             self.config = RobertaConfig.from_pretrained(args.pretrained_dir, output_hidden_states=True)
             self.config.vocab_size=len(self.tokenizer)
             self.model=RobertaModel.from_pretrained(pretrained_model_name_or_path=args.pretrained_dir, config=self.config)
-            if args.reset_weights:
-                checkpoint = torch.load(args.pretrained_dir+'/pytorch_model.bin', map_location='cpu')
-                new_state_dict=OrderedDict()
-                for k,v in checkpoint.items():
-                    if k.startswith('model.roberta.'):
-                        k=k.replace('model.roberta.','')
-                    new_state_dict[k]=v
-                msg = self.model.load_state_dict(new_state_dict, strict=False)
-                logger.info(msg)
-                print(msg)
+            # if args.reset_weights:
+            #     checkpoint = torch.load(args.pretrained_dir+'/pytorch_model.bin', map_location='cpu')
+            #     new_state_dict=OrderedDict()
+            #     for k,v in checkpoint.items():
+            #         if k.startswith('model.roberta.'):
+            #             k=k.replace('model.roberta.','')
+            #         new_state_dict[k]=v
+            #     msg = self.model.load_state_dict(new_state_dict, strict=False)
+            #     logger.info(msg)
+            #     print(msg)
 
         self.task=args.task
         self.args=args
