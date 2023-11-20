@@ -3,14 +3,14 @@
 
 ```
 
-export MODEL=KBioXLM_model
-export MODEL_PATH=../../KBioXLM_model
+export MODEL=KBioXLM
+export MODEL_PATH=ngwlh/KBioXLM
 
 task=GAD_hf_zh_en
 datadir=../data/seqcls/$task
 outdir=runs/$task/$MODEL-$LR-$EPOCH-$SEED
 mkdir -p $outdir
-python3 -u seqcls/run_seqcls.py --model_name_or_path $MODEL_PATH --use_our_pretrain \
+python3 -u seqcls/run_seqcls.py --model_name_or_path $MODEL_PATH \
   --train_file $datadir/train.json --validation_file $datadir/dev.json --test_file $datadir/test_en.json \
   --do_train --do_eval --do_predict --metric_name PRF1 \
   --per_device_train_batch_size 32 --gradient_accumulation_steps 1 --fp16 \
