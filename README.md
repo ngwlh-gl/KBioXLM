@@ -5,9 +5,9 @@ Multilingual Biomedical PLM-KBioXLM
 
 <img src="./kbioxlm_fig.png">
 
-## 2.KBioXLM model weights link
+## 2.KBioXLM model weights
 
-https://pan.baidu.com/s/1v43GS7tNRpD3kvpbd0QonA?pwd=pc7r 
+[Link](https://pan.baidu.com/s/1v43GS7tNRpD3kvpbd0QonA?pwd=pc7r)
 
 ## 3.Installation Tutorial
 
