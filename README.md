@@ -7,7 +7,10 @@ Multilingual Biomedical PLM-KBioXLM
 
 ## 2.KBioXLM model weights
 
-[Link](https://pan.baidu.com/s/1v43GS7tNRpD3kvpbd0QonA?pwd=pc7r)
+```python
+from transformers import RobertaModel
+model=RobertaModel.from_pretrained('ngwlh/KBioXLM')
+```
 
 ## 3.Installation Tutorial
 
